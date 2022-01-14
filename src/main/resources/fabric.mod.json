@@ -6,15 +6,15 @@
   "name": "Megalo's Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "MegaloGamingT4F!"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://twitch.tv/megalogamingt4f/",
+    "sources": ""
   },
 
   "license": "MIT",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/megalosmod/icon.png",
 
   "environment": "*",
   "entrypoints": {
