@@ -16,7 +16,7 @@ public class ModBlocks {
     //Metallurgy
     public static final Block ALUMINIUM_ORE = registerblock("aluminium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_ALUMINIUM_ORE = registerblock("deepslate_aluminium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_ALUMINIUM_ORE = registerblock("netherrack_aluminium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_ALUMINIUM_ORE = registerblock("netherrack_aluminium_ore.json", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block ALUMINIUM_BLOCK = registerblock("aluminium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block RAW_ALUMINIUM_BLOCK = registerblock("raw_aluminium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
 

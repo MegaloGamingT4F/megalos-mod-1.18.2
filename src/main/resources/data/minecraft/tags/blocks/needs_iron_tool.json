@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "megalosmod:aluminium_block",
+    "megalosmod:aluminium_ore",
+    "megalosmod:deepslate_aluminium_ore",
+    "megalosmod:netherrack_aluminium_ore",
+    "megalosmod:raw_mythril_block"
+  ]
+}
