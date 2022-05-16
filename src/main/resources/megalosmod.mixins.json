@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.megalogamingt4f.megalosmod.mixin",
+  "package": "net.megalogaming.megalosmod.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
   ],

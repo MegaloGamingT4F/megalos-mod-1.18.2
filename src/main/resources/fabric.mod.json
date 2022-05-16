@@ -6,7 +6,7 @@
   "name": "Megalo's Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "MegaloGamingT4F!"
+    "MegaloGamingT4F aka v_megalo_v!"
   ],
   "contact": {
     "homepage": "https://twitch.tv/megalogamingt4f/",
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.megalogamingt4f.megalosmod.MegalosMod"
+      "net.megalogaming.megalosmod.MegalosMod"
     ]
   },
   "mixins": [

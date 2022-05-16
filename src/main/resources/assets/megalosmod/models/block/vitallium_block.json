@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:block/aili_block"
+    "all": "megalosmod:block/vitallium_block"
   }
 }

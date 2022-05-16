@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:block/aluminium_block"
+    "all": "megalosmod:block/deepslate_niobium_ore"
   }
 }

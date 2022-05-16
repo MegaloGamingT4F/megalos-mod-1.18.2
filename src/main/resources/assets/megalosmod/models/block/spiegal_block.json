@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:blocks/alpaca_block"
+    "all": "megalosmod:block/spiegal_block"
   }
 }
