@@ -655,7 +655,7 @@ public class ModItems {
     public static final Item PEWTER_DUST = registerItem("pewter_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item ZIRCALOY_INGOT = registerItem("zircaloy_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item ZIRCALOY_NUGGET = registerItem("zircaloy_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
-    public static final Item ZIRCALOY_DUST = registerItem("zircaloy_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
+    public static final Item ZIRCALOy_DUST = registerItem("zircaloy_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
 
     //Extras
     public static final Item COPPER_DUST = registerItem("copper_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
