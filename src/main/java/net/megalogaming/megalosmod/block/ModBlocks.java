@@ -14,112 +14,104 @@ import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
     //Metallurgy
+    //Ore
     public static final Block ALUMINIUM_ORE = registerblock("aluminium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_ALUMINIUM_ORE = registerblock("deepslate_aluminium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_ALUMINIUM_ORE = registerblock("netherrack_aluminium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block ALUMINIUM_BLOCK = registerblock("aluminium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_ALUMINIUM_BLOCK = registerblock("raw_aluminium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block ANTIMONY_ORE = registerblock("antimony_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_ANTIMONY_ORE = registerblock("deepslate_antimony_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_ANTIMONY_ORE = registerblock("netherrack_antimony_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block ANTIMONY_BLOCK = registerblock("antimony_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_ANTIMONY_BLOCK = registerblock("raw_antimony_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block ARSENIC_ORE = registerblock("arsenic_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_ARSENIC_ORE = registerblock("deepslate_arsenic_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_ARSENIC_ORE = registerblock("netherrack_arsenic_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block ARSENIC_BLOCK = registerblock("arsenic_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_ARSENIC_BLOCK = registerblock("raw_arsenic_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block BARIUM_ORE = registerblock("barium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_BARIUM_ORE = registerblock("deepslate_barium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_BARIUM_ORE = registerblock("netherrack_barium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block BARIUM_BLOCK = registerblock("barium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_BARIUM_BLOCK = registerblock("raw_barium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block BERYLLIUM_ORE = registerblock("beryllium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_BERYLLIUM_ORE = registerblock("deepslate_beryllium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_BERYLLIUM_ORE = registerblock("netherrack_beryllium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block BERYLLIUM_BLOCK = registerblock("beryllium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_BERYLLIUM_BLOCK = registerblock("raw_beryllium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block BISMUTH_ORE = registerblock("bismuth_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_BISMUTH_ORE = registerblock("deepslate_bismuth_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_BISMUTH_ORE = registerblock("netherrack_bismuth_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block BISMUTH_BLOCK = registerblock("bismuth_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_BISMUTH_BLOCK = registerblock("raw_bismuth_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block CADMIUM_ORE = registerblock("cadmium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_CADMIUM_ORE = registerblock("deepslate_cadmium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_CADMIUM_ORE = registerblock("netherrack_cadmium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block CADMIUM_BLOCK = registerblock("cadmium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_CADMIUM_BLOCK = registerblock("raw_cadmium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block CALCIUM_ORE = registerblock("calcium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_CALCIUM_ORE = registerblock("deepslate_calcium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_CALCIUM_ORE = registerblock("netherrack_calcium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block CALCIUM_BLOCK = registerblock("calcium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_CALCIUM_BLOCK = registerblock("raw_calcium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block CAESIUM_ORE = registerblock("caesium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_CAESIUM_ORE = registerblock("deepslate_caesium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_CAESIUM_ORE = registerblock("netherrack_caesium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block CAESIUM_BLOCK = registerblock("caesium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_CAESIUM_BLOCK = registerblock("raw_caesium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block CHROMIUM_ORE = registerblock("chromium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_CHROMIUM_ORE = registerblock("deepslate_chromium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_CHROMIUM_ORE = registerblock("netherrack_chromium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block CHROMIUM_BLOCK = registerblock("chromium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_CHROMIUM_BLOCK = registerblock("raw_chromium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block CINNABAR_ORE = registerblock("cinnabar_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_CINNABAR_ORE = registerblock("deepslate_cinnabar_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_CINNABAR_ORE = registerblock("netherrack_cinnabar_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block CINNABAR_BLOCK = registerblock("cinnabar_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_CINNABAR_BLOCK = registerblock("raw_cinnabar_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block COBALT_ORE = registerblock("cobalt_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_COBALT_ORE = registerblock("deepslate_cobalt_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_COBALT_ORE = registerblock("netherrack_cobalt_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block COBALT_BLOCK = registerblock("cobalt_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_COBALT_BLOCK = registerblock("raw_cobalt_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block GERMANIUM_ORE = registerblock("germanium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_GERMANIUM_ORE = registerblock("deepslate_germanium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_GERMANIUM_ORE = registerblock("netherrack_germanium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block GERMANIUM_BLOCK = registerblock("germanium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_GERMANIUM_BLOCK = registerblock("raw_germanium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block GALLIUM_ORE = registerblock("gallium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_GALLIUM_ORE = registerblock("deepslate_gallium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_GALLIUM_ORE = registerblock("netherrack_gallium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block GALLIUM_BLOCK = registerblock("gallium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_GALLIUM_BLOCK = registerblock("raw_gallium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block HAFNIUM_ORE = registerblock("hafnium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_HAFNIUM_ORE = registerblock("deepslate_hafnium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_HAFNIUM_ORE = registerblock("netherrack_hafnium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block HAFNIUM_BLOCK = registerblock("hafnium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_HAFNIUM_BLOCK = registerblock("raw_hafnium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block INDIUM_ORE = registerblock("indium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_INDIUM_ORE = registerblock("deepslate_indium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_INDIUM_ORE = registerblock("netherrack_indium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block INDIUM_BLOCK = registerblock("indium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_INDIUM_BLOCK = registerblock("raw_indium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block IRIDIUM_ORE = registerblock("iridium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block DEEPSLATE_IRIDIUM_ORE = registerblock("deepslate_iridium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block NETHERRACK_IRIDIUM_ORE = registerblock("netherrack_iridium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block IRIDIUM_BLOCK = registerblock("iridium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-    public static final Block RAW_IRIDIUM_BLOCK = registerblock("raw_iridium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
-
     public static final Block LEAD_ORE = registerblock("lead_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+
+    //Deepslate
+    public static final Block DEEPSLATE_ALUMINIUM_ORE = registerblock("deepslate_aluminium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_ANTIMONY_ORE = registerblock("deepslate_antimony_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_ARSENIC_ORE = registerblock("deepslate_arsenic_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_BARIUM_ORE = registerblock("deepslate_barium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_BERYLLIUM_ORE = registerblock("deepslate_beryllium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_BISMUTH_ORE = registerblock("deepslate_bismuth_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_CADMIUM_ORE = registerblock("deepslate_cadmium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_CALCIUM_ORE = registerblock("deepslate_calcium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_CAESIUM_ORE = registerblock("deepslate_caesium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_CHROMIUM_ORE = registerblock("deepslate_chromium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_CINNABAR_ORE = registerblock("deepslate_cinnabar_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_COBALT_ORE = registerblock("deepslate_cobalt_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_GERMANIUM_ORE = registerblock("deepslate_germanium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_GALLIUM_ORE = registerblock("deepslate_gallium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_HAFNIUM_ORE = registerblock("deepslate_hafnium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_INDIUM_ORE = registerblock("deepslate_indium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_IRIDIUM_ORE = registerblock("deepslate_iridium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_LEAD_ORE = registerblock("deepslate_lead_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+
+    //Netherrack
+    public static final Block NETHERRACK_ALUMINIUM_ORE = registerblock("netherrack_aluminium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_ANTIMONY_ORE = registerblock("netherrack_antimony_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_ARSENIC_ORE = registerblock("netherrack_arsenic_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_BARIUM_ORE = registerblock("netherrack_barium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_BERYLLIUM_ORE = registerblock("netherrack_beryllium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_BISMUTH_ORE = registerblock("netherrack_bismuth_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_CADMIUM_ORE = registerblock("netherrack_cadmium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_CALCIUM_ORE = registerblock("netherrack_calcium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_CAESIUM_ORE = registerblock("netherrack_caesium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_CHROMIUM_ORE = registerblock("netherrack_chromium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_CINNABAR_ORE = registerblock("netherrack_cinnabar_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_COBALT_ORE = registerblock("netherrack_cobalt_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_GERMANIUM_ORE = registerblock("netherrack_germanium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_GALLIUM_ORE = registerblock("netherrack_gallium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_HAFNIUM_ORE = registerblock("netherrack_hafnium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_INDIUM_ORE = registerblock("netherrack_indium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block NETHERRACK_IRIDIUM_ORE = registerblock("netherrack_iridium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block NETHERRACK_LEAD_ORE = registerblock("netherrack_lead_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+
+    //Block
+    public static final Block ALUMINIUM_BLOCK = registerblock("aluminium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block ANTIMONY_BLOCK = registerblock("antimony_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block ARSENIC_BLOCK = registerblock("arsenic_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block BARIUM_BLOCK = registerblock("barium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block BERYLLIUM_BLOCK = registerblock("beryllium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block BISMUTH_BLOCK = registerblock("bismuth_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block CADMIUM_BLOCK = registerblock("cadmium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block CALCIUM_BLOCK = registerblock("calcium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block CAESIUM_BLOCK = registerblock("caesium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block CHROMIUM_BLOCK = registerblock("chromium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block CINNABAR_BLOCK = registerblock("cinnabar_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block COBALT_BLOCK = registerblock("cobalt_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block GERMANIUM_BLOCK = registerblock("germanium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block GALLIUM_BLOCK = registerblock("gallium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block HAFNIUM_BLOCK = registerblock("hafnium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block INDIUM_BLOCK = registerblock("indium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block IRIDIUM_BLOCK = registerblock("iridium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block LEAD_BLOCK = registerblock("lead_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+
+    //Raw Block
+    public static final Block RAW_ALUMINIUM_BLOCK = registerblock("raw_aluminium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_ANTIMONY_BLOCK = registerblock("raw_antimony_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_ARSENIC_BLOCK = registerblock("raw_arsenic_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_BARIUM_BLOCK = registerblock("raw_barium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_BERYLLIUM_BLOCK = registerblock("raw_beryllium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_BISMUTH_BLOCK = registerblock("raw_bismuth_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_CADMIUM_BLOCK = registerblock("raw_cadmium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_CALCIUM_BLOCK = registerblock("raw_calcium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_CAESIUM_BLOCK = registerblock("raw_caesium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_CHROMIUM_BLOCK = registerblock("raw_chromium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_CINNABAR_BLOCK = registerblock("raw_cinnabar_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_COBALT_BLOCK = registerblock("raw_cobalt_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_GERMANIUM_BLOCK = registerblock("raw_germanium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_GALLIUM_BLOCK = registerblock("raw_gallium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_HAFNIUM_BLOCK = registerblock("raw_hafnium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_INDIUM_BLOCK = registerblock("raw_indium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block RAW_IRIDIUM_BLOCK = registerblock("raw_iridium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block RAW_LEAD_BLOCK = registerblock("raw_lead_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
 
     public static final Block LITHIUM_ORE = registerblock("lithium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
