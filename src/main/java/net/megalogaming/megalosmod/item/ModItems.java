@@ -44,7 +44,13 @@ public class ModItems {
     public static final Item CAESIUM_INGOT = registerItem("caesium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CHROMIUM_INGOT = registerItem("chromium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CINNABAR_INGOT = registerItem("cinnabar_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item COBALT_INGOT = registerItem("cobalt_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item GERMANIUM_INGOT = registerItem("germanium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item GALLIUM_INGOT = registerItem("gallium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item HAFNIUM_INGOT = registerItem("hafnium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item INDIUM_INGOT = registerItem("indium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item IRIDIUM_INGOT = registerItem("iridium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item LEAD_INGOT = registerItem("lead_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
 
     //Nugget
     public static final Item ALUMINIUM_NUGGET = registerItem("aluminium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
@@ -57,6 +63,14 @@ public class ModItems {
     public static final Item CALCIUM_NUGGET = registerItem("calcium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CAESIUM_NUGGET = registerItem("caesium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CHROMIUM_NUGGET = registerItem("chromium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item CINNABAR_NUGGET = registerItem("cinnabar_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item COBALT_NUGGET = registerItem("cobalt_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item GERMANIUM_NUGGET = registerItem("germanium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item GALLIUM_NUGGET = registerItem("gallium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item HAFNIUM_NUGGET = registerItem("hafnium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item INDIUM_NUGGET = registerItem("indium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item IRIDIUM_NUGGET = registerItem("iridium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item LEAD_NUGGET = registerItem("lead_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
 
     //Dust
     public static final Item ALUMINIUM_DUST = registerItem("aluminium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
@@ -70,31 +84,17 @@ public class ModItems {
     public static final Item CAESIUM_DUST = registerItem("caesium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CHROMIUM_DUST = registerItem("chromium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CINNABAR_DUST = registerItem("cinnabar_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-
-    public static final Item CINNABAR_NUGGET = registerItem("cinnabar_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item COBALT_INGOT = registerItem("cobalt_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item COBALT_NUGGET = registerItem("cobalt_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item COBALT_DUST = registerItem("cobalt_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item GERMANIUM_NUGGET = registerItem("germanium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item GERMANIUM_DUST = registerItem("germanium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item GALLIUM_INGOT = registerItem("gallium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item GALLIUM_NUGGET = registerItem("gallium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item GALLIUM_DUST = registerItem("gallium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item HAFNIUM_INGOT = registerItem("hafnium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item HAFNIUM_NUGGET = registerItem("hafnium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item HAFNIUM_DUST = registerItem("hafnium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item HAFNIUM_RAW = registerItem("raw_hafnium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item INDIUM_INGOT = registerItem("indium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item INDIUM_NUGGET = registerItem("indium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item INDIUM_DUST = registerItem("indium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item INDIUM_RAW = registerItem("raw_indium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item IRIDIUM_INGOT = registerItem("iridium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item IRIDIUM_NUGGET = registerItem("iridium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item IRIDIUM_DUST = registerItem("iridium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item IRIDIUM_RAW = registerItem("raw_iridium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item LEAD_INGOT = registerItem("lead_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item LEAD_NUGGET = registerItem("lead_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item LEAD_DUST = registerItem("lead_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+
+    public static final Item HAFNIUM_RAW = registerItem("raw_hafnium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item INDIUM_RAW = registerItem("raw_indium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item IRIDIUM_RAW = registerItem("raw_iridium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item LEAD_RAW = registerItem("raw_lead", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item LITHIUM_INGOT = registerItem("lithium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item LITHIUM_NUGGET = registerItem("lithium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
