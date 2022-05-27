@@ -2,4 +2,5 @@
   "parent": "block/cube_all",
   "textures": {
     "all": "megalosmod:block/tumbaga_block"
+  }
 }

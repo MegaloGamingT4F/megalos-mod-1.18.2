@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:blocks/amalgam_block"
+    "all": "megalosmod:block/amalgam_block"
   }
 }

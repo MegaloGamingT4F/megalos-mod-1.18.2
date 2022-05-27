@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:blocks/hastelloy_block"
+    "all": "megalosmod:block/hastelloy_block"
   }
 }

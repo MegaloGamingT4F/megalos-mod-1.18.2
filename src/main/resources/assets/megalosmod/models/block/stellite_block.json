@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:block/stelite_block"
+    "all": "megalosmod:block/stellite_block"
   }
 }

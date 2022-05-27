@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:blocks/whitegold_block"
+    "all": "megalosmod:block/whitegold_block"
   }
 }

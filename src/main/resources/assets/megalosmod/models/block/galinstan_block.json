@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:blocks/galinstan_block"
+    "all": "megalosmod:block/galinstan_block"
   }
 }

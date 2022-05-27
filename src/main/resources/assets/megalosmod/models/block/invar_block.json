@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:blocks/invar_block"
+    "all": "megalosmod:block/invar_block"
   }
 }

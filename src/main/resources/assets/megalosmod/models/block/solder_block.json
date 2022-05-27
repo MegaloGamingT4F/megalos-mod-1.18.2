@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "megalosmod:blocks/solder_block"
+    "all": "megalosmod:block/solder_block"
   }
 }

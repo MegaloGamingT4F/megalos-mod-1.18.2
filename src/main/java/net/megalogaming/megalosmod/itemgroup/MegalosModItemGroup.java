@@ -12,4 +12,6 @@ public class MegalosModItemGroup {
             () -> new ItemStack(ModItems.ALUMINIUM_RAW));
     public static final ItemGroup ALLOY = FabricItemGroupBuilder.build(new Identifier(MegalosMod.MOD_ID, "alloy"),
             () -> new ItemStack(ModItems.STEEL_NUGGET));
+    public static final ItemGroup HOPLOLOGY = FabricItemGroupBuilder.build(new Identifier(MegalosMod.MOD_ID, "hoplology"),
+            () -> new ItemStack(ModItems.ALUMINIUM_AXE));
 }
