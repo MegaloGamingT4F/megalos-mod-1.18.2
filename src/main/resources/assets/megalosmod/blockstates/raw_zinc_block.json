@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_zinc_block" }
+    "": { "model": "megalosmod:block/raw_zinc_block" }
   }
 }

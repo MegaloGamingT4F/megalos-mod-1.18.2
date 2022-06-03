@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_potassium_block" }
+    "": { "model": "megalosmod:block/raw_potassium_block" }
   }
 }

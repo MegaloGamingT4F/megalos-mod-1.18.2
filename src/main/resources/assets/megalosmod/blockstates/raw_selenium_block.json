@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_selenium_block" }
+    "": { "model": "megalosmod:block/raw_selenium_block" }
   }
 }

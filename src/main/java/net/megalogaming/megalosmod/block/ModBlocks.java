@@ -21,11 +21,13 @@ public class ModBlocks {
     public static final Block BARIUM_ORE = registerblock("barium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block BERYLLIUM_ORE = registerblock("beryllium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block BISMUTH_ORE = registerblock("bismuth_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block CADMIUM_ORE = registerblock("cadmium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block CALCIUM_ORE = registerblock("calcium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block CAESIUM_ORE = registerblock("caesium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block CHROMIUM_ORE = registerblock("chromium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block CINNABAR_ORE = registerblock("cinnabar_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block COBALT_ORE = registerblock("cobalt_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block GALLIUM_ORE = registerblock("gallium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block GERMANIUM_ORE = registerblock("germanium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block HAFNIUM_ORE = registerblock("hafnium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block INDIUM_ORE = registerblock("indium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
@@ -269,7 +271,6 @@ public class ModBlocks {
     public static final Block RAW_ZIRCONIUM_BLOCK = registerblock("raw_zirconium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
 
     //Megalo's Alloys
-
     //Alloy Block - Aluminium
     public static final Block AA_BLOCK = registerblock("aa_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block AILI_BLOCK = registerblock("aili_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
@@ -386,7 +387,7 @@ public class ModBlocks {
     public static final Block PIGIRON_BLOCK = registerblock("pigiron_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block REYNOLDS_BLOCK = registerblock("reynolds_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block SILISTEEL_BLOCK = registerblock("silisteel_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
-    public static final Block SPIEGAL_BLOCK = registerblock("spiegal_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
+    public static final Block SPIEGEL_BLOCK = registerblock("spiegel_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block SPRINGSTEEL_BLOCK = registerblock("springsteel_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block STAINLESS_BLOCK = registerblock("stainless_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block STEEL_BLOCK = registerblock("steel_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
@@ -396,7 +397,7 @@ public class ModBlocks {
     public static final Block WROUGHT_BLOCK = registerblock("wrought_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
 
     //Alloy Block - Lead
-    public static final Block MOLYBDOCHALKOS_BLOCK = registerblock("molybdchalkos_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
+    public static final Block MOLYBDOCHALKOS_BLOCK = registerblock("molybdochalkos_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block SOLDER_BLOCK = registerblock("solder_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block TERNE_BLOCK = registerblock("terne_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block TYPEMETAL_BLOCK = registerblock("typemetal_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
@@ -428,7 +429,7 @@ public class ModBlocks {
     public static final Block GERSIL_BLOCK = registerblock("gersil_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block HASTELLOY_BLOCK = registerblock("hastelloy_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block INCONEL_BLOCK = registerblock("inconel_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
-    public static final Block INCONELSES_BLOCK = registerblock("inconlese_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
+    public static final Block INCONELSES_BLOCK = registerblock("inconelese_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block MONEL_BLOCK = registerblock("monel_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block MUMETAL_BLOCK = registerblock("mumetal_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block NICKCARB_BLOCK = registerblock("nickcarb_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
@@ -456,13 +457,13 @@ public class ModBlocks {
     public static final Block FERROSILICON_BLOCK = registerblock("ferrosilicon_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
 
     //Alloy Block - Silver
-    public static final Block ARGSTERSIL_BLOCK = registerblock("argtersil_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
+    public static final Block ARGSTERSIL_BLOCK = registerblock("argstersil_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block BRITSIL_BLOCK = registerblock("britsil_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block DORE_BLOCK = registerblock("dore_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block DYMALLOY_BLOCK = registerblock("dymalloy_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block GOLOID_BLOCK = registerblock("goloid_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block PLATSTER_BLOCK = registerblock("platster_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
-    public static final Block SHIBUCHI_BLOCK = registerblock("shibuchi_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
+    public static final Block SHIBUCHI_BLOCK = registerblock("shibuichi_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block STERLING_BLOCK = registerblock("sterling_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block TIBETSIL_BLOCK = registerblock("tibetsil_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
 
@@ -492,7 +493,7 @@ public class ModBlocks {
     public static final Block ZIRCALOY_BLOCK = registerblock("zircaloy_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
 
     private static Block registerblock(String name, Block block, ItemGroup group){
-        registerBlockItem(name,block,group);
+        registerBlockItem(name, block, group);
         return Registry.register(Registry.BLOCK, new Identifier(MegalosMod.MOD_ID, name), block);
     }
 

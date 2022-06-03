@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_calcium_block" }
+    "": { "model": "megalosmod:block/raw_calcium_block" }
   }
 }

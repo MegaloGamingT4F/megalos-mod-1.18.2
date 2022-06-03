@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:block/iridium_block" }
+    "": { "model": "megalosmod:block/highspeed_block" }
   }
 }

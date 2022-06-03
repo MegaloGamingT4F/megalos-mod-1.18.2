@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_zirconium_block" }
+    "": { "model": "megalosmod:block/raw_zirconium_block" }
   }
 }

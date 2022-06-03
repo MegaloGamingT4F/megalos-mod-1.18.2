@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_thallium_block" }
+    "": { "model": "megalosmod:block/raw_thallium_block" }
   }
 }

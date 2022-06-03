@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_caesium_block" }
+    "": { "model": "megalosmod:block/raw_caesium_block" }
   }
 }

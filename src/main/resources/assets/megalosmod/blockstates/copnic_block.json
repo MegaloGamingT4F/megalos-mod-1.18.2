@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:block/hafnium_block" }
+    "": { "model": "megalosmod:block/copnic_block" }
   }
 }

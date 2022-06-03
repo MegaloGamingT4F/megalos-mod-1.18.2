@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:block/iridium_ore" }
+    "": { "model": "megalosmod:block/iridium_block" }
   }
 }

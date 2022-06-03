@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_osmium_block" }
+    "": { "model": "megalosmod:block/raw_osmium_block" }
   }
 }

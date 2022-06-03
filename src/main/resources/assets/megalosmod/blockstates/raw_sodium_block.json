@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_sodium_block" }
+    "": { "model": "megalosmod:block/raw_sodium_block" }
   }
 }

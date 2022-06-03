@@ -13,7 +13,7 @@ public class MegalosMod implements ModInitializer {
     @Override
     public void onInitialize() {
 
-        ModItems.registerModItems();
         ModBlocks.registerModBlocks();
+        ModItems.registerModItems();
     }
 }

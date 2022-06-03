@@ -1,7 +1,5 @@
 {
   "variants": {
-    "": {
-      "model": "megalosmod:block/gallium_block"
-    }
+    "": { "model": "megalosmod:block/hastelloy_block" }
   }
 }

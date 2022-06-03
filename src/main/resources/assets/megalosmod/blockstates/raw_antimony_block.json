@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_antimony_block" }
+    "": { "model": "megalosmod:block/raw_antimony_block" }
   }
 }

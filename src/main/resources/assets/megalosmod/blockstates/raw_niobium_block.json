@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_niobium_block" }
+    "": { "model": "megalosmod:block/raw_niobium_block" }
   }
 }

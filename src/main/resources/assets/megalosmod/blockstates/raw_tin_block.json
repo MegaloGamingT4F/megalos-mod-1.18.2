@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_tin_block" }
+    "": { "model": "megalosmod:block/raw_tin_block" }
   }
 }

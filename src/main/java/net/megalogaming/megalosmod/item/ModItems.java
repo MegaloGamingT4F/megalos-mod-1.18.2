@@ -31,6 +31,42 @@ public class ModItems {
     public static final Item COBALT_RAW = registerItem("raw_cobalt", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item GERMANIUM_RAW = registerItem("raw_germanium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item GALLIUM_RAW = registerItem("raw_gallium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item HAFNIUM_RAW = registerItem("raw_hafnium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item INDIUM_RAW = registerItem("raw_indium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item IRIDIUM_RAW = registerItem("raw_iridium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item LEAD_RAW = registerItem("raw_lead", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item LITHIUM_RAW = registerItem("raw_lithium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MAGNESIUM_RAW = registerItem("raw_magnesium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MANGANESE_RAW = registerItem("raw_manganese", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MOLYBDENUM_RAW = registerItem("raw_molybdenum", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item NICKEL_RAW = registerItem("raw_nickel", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item NIOBIUM_RAW = registerItem("raw_niobium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item OSMIUM_RAW = registerItem("raw_osmium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PALLADIUM_RAW = registerItem("raw_palladium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PHOSPHORUS_RAW = registerItem("raw_phosphorus", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PLATINUM_RAW = registerItem("raw_platinum", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item POTASSIUM_RAW = registerItem("raw_potassium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RHENIUM_RAW = registerItem("raw_rhenium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RHODIUM_RAW = registerItem("raw_rhodium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RUBIDIUM_RAW = registerItem("raw_rubidium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RUTHENIUM_RAW = registerItem("raw_ruthenium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SCANDIUM_RAW = registerItem("raw_scandium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SELENIUM_RAW = registerItem("raw_selenium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SILICON_RAW = registerItem("raw_silicon", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SILVER_RAW = registerItem("raw_silver", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SODIUM_RAW = registerItem("raw_sodium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item STRONTIUM_RAW = registerItem("raw_strontium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TANTALUM_RAW = registerItem("raw_tantalum", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TECHNETIUM_RAW = registerItem("raw_technetium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TELLURIUM_RAW = registerItem("raw_tellurium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item THALLIUM_RAW = registerItem("raw_thallium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TIN_RAW = registerItem("raw_tin", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TITANIUM_RAW = registerItem("raw_titanium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TUNGSTEN_RAW = registerItem("raw_tungsten", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item VANADIUM_RAW = registerItem("raw_vanadium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item YTTRIUM_RAW = registerItem("raw_yttrium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item ZINC_RAW = registerItem("raw_zinc", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item ZIRCONIUM_RAW = registerItem("raw_zirconium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
 
     //Ingot
     public static final Item ALUMINIUM_INGOT = registerItem("aluminium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
@@ -51,6 +87,38 @@ public class ModItems {
     public static final Item INDIUM_INGOT = registerItem("indium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item IRIDIUM_INGOT = registerItem("iridium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item LEAD_INGOT = registerItem("lead_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item LITHIUM_INGOT = registerItem("lithium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MAGNESIUM_INGOT = registerItem("magnesium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MANGANESE_INGOT = registerItem("manganese_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MOLYBDENUM_INGOT = registerItem("molybdenum_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item NICKEL_INGOT = registerItem("nickel_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item NIOBIUM_INGOT = registerItem("niobium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item OSMIUM_INGOT = registerItem("osmium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PALLADIUM_INGOT = registerItem("palladium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PHOSPHORUS_INGOT = registerItem("phosphorus_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PLATINUM_INGOT = registerItem("platinum_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item POTASSIUM_INGOT = registerItem("potassium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RHENIUM_INGOT = registerItem("rhenium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RHODIUM_INGOT = registerItem("rhodium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RUBIDIUM_INGOT = registerItem("rubidium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RUTHENIUM_INGOT = registerItem("ruthenium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SCANDIUM_INGOT = registerItem("scandium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SELENIUM_INGOT = registerItem("selenium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SILICON_INGOT = registerItem("silicon_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SILVER_INGOT = registerItem("silver_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SODIUM_INGOT = registerItem("sodium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item STRONTIUM_INGOT = registerItem("strontium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TANTALUM_INGOT = registerItem("tantalum_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TECHNETIUM_INGOT = registerItem("technetium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TELLURIUM_INGOT = registerItem("tellurium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item THALLIUM_INGOT = registerItem("thallium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TIN_INGOT = registerItem("tin_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TITANIUM_INGOT = registerItem("titanium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TUNGSTEN_INGOT = registerItem("tungsten_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item VANADIUM_INGOT = registerItem("vanadium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item YTTRIUM_INGOT = registerItem("yttrium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item ZINC_INGOT = registerItem("zinc_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item ZIRCONIUM_INGOT = registerItem("zirconium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
 
     //Nugget
     public static final Item ALUMINIUM_NUGGET = registerItem("aluminium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
@@ -71,6 +139,39 @@ public class ModItems {
     public static final Item INDIUM_NUGGET = registerItem("indium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item IRIDIUM_NUGGET = registerItem("iridium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item LEAD_NUGGET = registerItem("lead_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item LITHIUM_NUGGET = registerItem("lithium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MAGNESIUM_NUGGET = registerItem("magnesium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MANGANESE_NUGGET = registerItem("manganese_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item MOLYBDENUM_NUGGET = registerItem("molybdenum_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item NICKEL_NUGGET = registerItem("nickel_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item NIOBIUM_NUGGET = registerItem("niobium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item OSMIUM_NUGGET = registerItem("osmium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PALLADIUM_NUGGET = registerItem("palladium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PHOSPHORUS_NUGGET = registerItem("phosphorus_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item PLATINUM_NUGGET = registerItem("platinum_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item POTASSIUM_NUGGET = registerItem("potassium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RHENIUM_NUGGET = registerItem("rhenium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RHODIUM_NUGGET = registerItem("rhodium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RUBIDIUM_NUGGET = registerItem("rubidium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item RUTHENIUM_NUGGET = registerItem("ruthenium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SCANDIUM_NUGGET = registerItem("scandium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SELENIUM_NUGGET = registerItem("selenium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SILICON_NUGGET = registerItem("silicon_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SILVER_NUGGET = registerItem("silver_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item SODIUM_NUGGET = registerItem("sodium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item STRONTIUM_NUGGET = registerItem("strontium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TANTALUM_NUGGET = registerItem("tantalum_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TECHNETIUM_NUGGET = registerItem("technetium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TELLURIUM_NUGGET = registerItem("tellurium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item THALLIUM_NUGGET = registerItem("thallium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item THALLIUM_DUST = registerItem("thallium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TIN_NUGGET = registerItem("tin_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TITANIUM_NUGGET = registerItem("titanium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item TUNGSTEN_NUGGET = registerItem("tungsten_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item VANADIUM_NUGGET = registerItem("vanadium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item YTTRIUM_NUGGET = registerItem("yttrium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item ZINC_NUGGET = registerItem("zinc_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item ZIRCONIUM_NUGGET = registerItem("zirconium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
 
     //Dust
     public static final Item ALUMINIUM_DUST = registerItem("aluminium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
@@ -91,139 +192,37 @@ public class ModItems {
     public static final Item INDIUM_DUST = registerItem("indium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item IRIDIUM_DUST = registerItem("iridium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item LEAD_DUST = registerItem("lead_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-
-    public static final Item HAFNIUM_RAW = registerItem("raw_hafnium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item INDIUM_RAW = registerItem("raw_indium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item IRIDIUM_RAW = registerItem("raw_iridium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item LEAD_RAW = registerItem("raw_lead", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item LITHIUM_INGOT = registerItem("lithium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item LITHIUM_NUGGET = registerItem("lithium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item LITHIUM_DUST = registerItem("lithium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item LITHIUM_RAW = registerItem("raw_lithium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MAGNESIUM_INGOT = registerItem("magnesium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MAGNESIUM_NUGGET = registerItem("magnesium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item MAGNESIUM_DUST = registerItem("magnesium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MAGNESIUM_RAW = registerItem("raw_magnesium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MANGANESE_INGOT = registerItem("manganese_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MANGANESE_NUGGET = registerItem("manganese_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item MANGANESE_DUST = registerItem("manganese_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MANGANESE_RAW = registerItem("raw_manganese", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MOLYBDENUM_INGOT = registerItem("molybdenum_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MOLYBDENUM_NUGGET = registerItem("molybdenum_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item MOLYBDENUM_DUST = registerItem("molybdenum_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item MOLYBDENUM_RAW = registerItem("raw_molybdenum", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item NICKEL_INGOT = registerItem("nickel_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item NICKEL_NUGGET = registerItem("nickel_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item NICKEL_DUST = registerItem("nickel_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item NICKEL_RAW = registerItem("raw_nickel", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item NIOBIUM_INGOT = registerItem("niobium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item NIOBIUM_NUGGET = registerItem("niobium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item NIOBIUM_DUST = registerItem("niobium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item NIOBIUM_RAW = registerItem("raw_niobium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item OSMIUM_INGOT = registerItem("osmium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item OSMIUM_NUGGET = registerItem("osmium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item OSMIUM_DUST = registerItem("osmium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item OSMIUM_RAW = registerItem("raw_osmium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PALLADIUM_INGOT = registerItem("palladium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PALLADIUM_NUGGET = registerItem("palladium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item PALLADIUM_DUST = registerItem("palladium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PALLADIUM_RAW = registerItem("raw_palladium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PHOSPHORUS_INGOT = registerItem("phosphorus_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PHOSPHORUS_NUGGET = registerItem("phosphorus_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item PHOSPHORUS_DUST = registerItem("phosphorus_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PHOSPHORUS_RAW = registerItem("raw_phosphorus", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PLATINUM_INGOT = registerItem("platinum_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PLATINUM_NUGGET = registerItem("platinum_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item PLATINUM_DUST = registerItem("platinum_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item PLATINUM_RAW = registerItem("raw_platinum", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item POTASSIUM_INGOT = registerItem("potassium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item POTASSIUM_NUGGET = registerItem("potassium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item POTASSIUM_DUST = registerItem("potassium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item POTASSIUM_RAW = registerItem("raw_potassium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RHENIUM_INGOT = registerItem("rhenium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RHENIUM_NUGGET = registerItem("rhenium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item RHENIUM_DUST = registerItem("rhenium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RHENIUM_RAW = registerItem("raw_rhenium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RHODIUM_INGOT = registerItem("rhodium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RHODIUM_NUGGET = registerItem("rhodium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item RHODIUM_DUST = registerItem("rhodium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RHODIUM_RAW = registerItem("raw_rhodium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RUBIDIUM_INGOT = registerItem("rubidium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RUBIDIUM_NUGGET = registerItem("rubidium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item RUBIDIUM_DUST = registerItem("rubidium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RUBIDIUM_RAW = registerItem("raw_rubidium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RUTHENIUM_INGOT = registerItem("ruthenium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RUTHENIUM_NUGGET = registerItem("ruthenium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item RUTHENIUM_DUST = registerItem("ruthenium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item RUTHENIUM_RAW = registerItem("raw_ruthenium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SCANDIUM_INGOT = registerItem("scandium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SCANDIUM_NUGGET = registerItem("scandium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item SCANDIUM_DUST = registerItem("scandium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SCANDIUM_RAW = registerItem("raw_scandium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SELENIUM_INGOT = registerItem("selenium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SELENIUM_NUGGET = registerItem("selenium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item SELENIUM_DUST = registerItem("selenium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SELENIUM_RAW = registerItem("raw_selenium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SILICON_INGOT = registerItem("silicon_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SILICON_NUGGET = registerItem("silicon_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item SILICON_DUST = registerItem("silicon_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SILICON_RAW = registerItem("raw_silicon", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SILVER_INGOT = registerItem("silver_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SILVER_NUGGET = registerItem("silver_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item SILVER_DUST = registerItem("silver_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SILVER_RAW = registerItem("raw_silver", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SODIUM_INGOT = registerItem("sodium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SODIUM_NUGGET = registerItem("sodium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item SODIUM_DUST = registerItem("sodium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item SODIUM_RAW = registerItem("raw_sodium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item STRONTIUM_INGOT = registerItem("strontium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item STRONTIUM_NUGGET = registerItem("strontium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item STRONTIUM_DUST = registerItem("strontium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item STRONTIUM_RAW = registerItem("raw_strontium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TANTALUM_INGOT = registerItem("tantalum_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TANTALUM_NUGGET = registerItem("tantalum_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item TANTALUM_DUST = registerItem("tantalum_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TANTALUM_RAW = registerItem("raw_tantalum", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TECHNETIUM_INGOT = registerItem("technetium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TECHNETIUM_NUGGET = registerItem("technetium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item TECHNETIUM_DUST = registerItem("technetium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TECHNETIUM_RAW = registerItem("raw_technetium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TELLURIUM_INGOT = registerItem("tellurium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TELLURIUM_NUGGET = registerItem("tellurium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item TELLURIUM_DUST = registerItem("tellurium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TELLURIUM_RAW = registerItem("raw_tellurium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item THALLIUM_INGOT = registerItem("thallium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item THALLIUM_NUGGET = registerItem("thallium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item THALLIUM_DUST = registerItem("thallium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item THALLIUM_RAW = registerItem("raw_thallium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TIN_INGOT = registerItem("tin_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TIN_NUGGET = registerItem("tin_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item TIN_DUST = registerItem("tin_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TIN_RAW = registerItem("raw_tin", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TITANIUM_INGOT = registerItem("titanium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TITANIUM_NUGGET = registerItem("titanium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item TITANIUM_DUST = registerItem("titanium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TITANIUM_RAW = registerItem("raw_titanium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TUNGSTEN_INGOT = registerItem("tungsten_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TUNGSTEN_NUGGET = registerItem("tungsten_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item TUNGSTEN_DUST = registerItem("tungsten_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item TUNGSTEN_RAW = registerItem("raw_tungsten", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item VANADIUM_INGOT = registerItem("vanadium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item VANADIUM_NUGGET = registerItem("vanadium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item VANADIUM_DUST = registerItem("vanadium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item VANADIUM_RAW = registerItem("raw_vanadium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item YTTRIUM_INGOT = registerItem("yttrium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item YTTRIUM_NUGGET = registerItem("yttrium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item YTTRIUM_DUST = registerItem("yttrium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item YTTRIUM_RAW = registerItem("raw_yttrium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item ZINC_INGOT = registerItem("zinc_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item ZINC_NUGGET = registerItem("zinc_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item ZINC_DUST = registerItem("zinc_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item ZINC_RAW = registerItem("raw_zinc", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item ZIRCONIUM_INGOT = registerItem("zirconium_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item ZIRCONIUM_NUGGET = registerItem("zirconium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item ZIRCONIUM_DUST = registerItem("zirconium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item ZIRCONIUM_RAW = registerItem("raw_zirconium", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
 
     //Alloy Ingots
     //Aluminium Alloy Ingot
@@ -539,7 +538,7 @@ public class ModItems {
     public static final Item GALINSTAN_NUGGET = registerItem("galinstan_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
 
     //Gold Nugget
-    public static final Item ANTANIUM_NUGGET = registerItem("antantium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
+    public static final Item ANTANIUM_NUGGET = registerItem("antanium_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COLORGOLD_NUGGET = registerItem("colorgold_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CROWNGOLD_NUGGET = registerItem("crowngold_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item ELECTRUM_NUGGET = registerItem("electrum_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
@@ -902,18 +901,38 @@ public class ModItems {
     //Hoplology
     //Axe
     public static final Item ALUMINIUM_AXE = registerItem("aluminium_axe", new ModAxeItem(ModToolMaterials.ALUMINIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_AXE = registerItem("silver_axe", new ModAxeItem(ModToolMaterials.SILVER,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item STEEL_AXE = registerItem("steel_axe", new ModAxeItem(ModToolMaterials.STEEL,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_AXE = registerItem("damascus_axe", new ModAxeItem(ModToolMaterials.DAMASCUS,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item TITANIUM_AXE = registerItem("titanium_axe", new ModAxeItem(ModToolMaterials.TITANIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
     //Hoe
     public static final Item ALUMINIUM_HOE = registerItem("aluminium_hoe", new ModHoeItem(ModToolMaterials.ALUMINIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_HOE = registerItem("silver_hoe", new ModHoeItem(ModToolMaterials.SILVER,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item STEEL_HOE = registerItem("steel_hoe", new ModHoeItem(ModToolMaterials.STEEL,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_HOE = registerItem("damascus_hoe", new ModHoeItem(ModToolMaterials.DAMASCUS,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item TITANIUM_HOE = registerItem("titanium_hoe", new ModHoeItem(ModToolMaterials.TITANIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
     //Pickaxe
     public static final Item ALUMINIUM_PICKAXE = registerItem("aluminium_pickaxe", new ModPickaxeItem(ModToolMaterials.ALUMINIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_PICKAXE = registerItem("solver_pickaxe", new ModPickaxeItem(ModToolMaterials.SILVER,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item STEEL_PICKAXE = registerItem("steel_pickaxe", new ModPickaxeItem(ModToolMaterials.STEEL,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_PICKAXE = registerItem("damascus_pickaxe", new ModPickaxeItem(ModToolMaterials.DAMASCUS,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item TITANIUM_PICKAXE = registerItem("titanium_pickaxe", new ModPickaxeItem(ModToolMaterials.TITANIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
     //Shovel
     public static final Item ALUMINIUM_SHOVEL = registerItem("aluminium_shovel", new ModShovelItem(ModToolMaterials.ALUMINIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_SHOVEL = registerItem("silver_shovel", new ModShovelItem(ModToolMaterials.SILVER,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item STEEL_SHOVEL = registerItem("steel_shovel", new ModShovelItem(ModToolMaterials.STEEL,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_SHOVEL = registerItem("damascus_shovel", new ModShovelItem(ModToolMaterials.DAMASCUS,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item TITANIUM_SHOVEL = registerItem("titanium_shovel", new ModShovelItem(ModToolMaterials.TITANIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
     //Sword
     public static final Item ALUMINIUM_SWORD = registerItem("aluminium_sword", new SwordItem(ModToolMaterials.ALUMINIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_SWORD = registerItem("silver_sword", new SwordItem(ModToolMaterials.SILVER,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item STEEL_SWORD = registerItem("steel_sword", new SwordItem(ModToolMaterials.STEEL,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_SWORD = registerItem("damascus_sword", new SwordItem(ModToolMaterials.DAMASCUS,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item TITANIUM_SWORD = registerItem("titanium_sword", new SwordItem(ModToolMaterials.TITANIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
     //Armour
 

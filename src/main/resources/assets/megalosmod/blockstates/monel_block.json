@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:block/germanium_block" }
+    "": { "model": "megalosmod:block/monel_block" }
   }
 }

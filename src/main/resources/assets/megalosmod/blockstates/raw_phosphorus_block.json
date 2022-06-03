@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_phosphorus_block" }
+    "": { "model": "megalosmod:block/raw_phosphorus_block" }
   }
 }

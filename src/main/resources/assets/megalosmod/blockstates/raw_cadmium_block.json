@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "megalosmod:blocks/raw_cadmium_block" }
+    "": { "model": "megalosmod:block/raw_cadmium_block" }
   }
 }
