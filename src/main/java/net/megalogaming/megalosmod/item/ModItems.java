@@ -7,6 +7,8 @@ import net.megalogaming.megalosmod.item.tools.ModHoeItem;
 import net.megalogaming.megalosmod.item.tools.ModPickaxeItem;
 import net.megalogaming.megalosmod.item.tools.ModShovelItem;
 import net.megalogaming.megalosmod.itemgroup.MegalosModItemGroup;
+import net.minecraft.entity.EquipmentSlot;
+import net.minecraft.item.ArmorItem;
 import net.minecraft.item.AxeItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.SwordItem;
@@ -935,12 +937,36 @@ public class ModItems {
     public static final Item TITANIUM_SWORD = registerItem("titanium_sword", new SwordItem(ModToolMaterials.TITANIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
     //Armour
+    public static final Item ALUMINIUM_HELMET = registerItem("aluminium_helmet", new ArmorItem(ModArmorMaterials.ALUMINIUM, EquipmentSlot.HEAD, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item ALUMINIUM_CHESTPLATE = registerItem("aluminium_chestplate", new ArmorItem(ModArmorMaterials.ALUMINIUM, EquipmentSlot.CHEST, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item ALUMINIUM_LEGGINGS = registerItem("aluminium_leggings", new ArmorItem(ModArmorMaterials.ALUMINIUM, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item ALUMINIUM_BOOTS = registerItem("aluminium_boots", new ArmorItem(ModArmorMaterials.ALUMINIUM, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+
+    public static final Item SILVER_HELMET = registerItem("silver_helmet", new ArmorItem(ModArmorMaterials.SILVER, EquipmentSlot.HEAD, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_CHESTPLATE = registerItem("silver_chestplate", new ArmorItem(ModArmorMaterials.SILVER, EquipmentSlot.CHEST, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_LEGGINGS = registerItem("silver_leggings", new ArmorItem(ModArmorMaterials.SILVER, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_BOOTS = registerItem("silver_boots", new ArmorItem(ModArmorMaterials.SILVER, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+
+    public static final Item STEEL_HELMET = registerItem("steel_helmet", new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.HEAD, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item STEEL_CHESTPLATE = registerItem("steel_chestplate", new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.CHEST, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item STEEL_LEGGINGS = registerItem("steel_leggings", new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item STEEL_BOOTS = registerItem("steel_boots", new ArmorItem(ModArmorMaterials.STEEL, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+
+    public static final Item DAMASCUS_HELMET = registerItem("damascus_helmet", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.HEAD, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_CHESTPLATE = registerItem("damascus_chestplate", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.CHEST, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_LEGGINGS = registerItem("damascus_leggings", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_BOOTS = registerItem("damasus_boots", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+
+    public static final Item TITANIUM_HELMET = registerItem("titanium_helmet", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.HEAD, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item TITANIUM_CHESTPLATE = registerItem("titanium_chestplate", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.CHEST, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item TITANIUM_LEGGINGS = registerItem("titanium_leggings", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item TITANIUM_BOOTS = registerItem("titanium_boots", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
 private static Item registerItem(String name, Item item){
     return Registry.register(Registry.ITEM, new Identifier(MegalosMod.MOD_ID, name), item);
 }
 
     public static void registerModItems(){
-        MegalosMod.LOGGER.info("Registring Mod Items for " + MegalosMod.MOD_ID);
+        MegalosMod.LOGGER.info("Registering Mod Items for " + MegalosMod.MOD_ID);
     }
 }
