@@ -748,6 +748,27 @@
   "item.megalosmod.titanium_shovel": "Titanium Shovel",
   "item.megalosmod.titanium_sword": "Titanium Sword",
 
+  "item.megalosmod.aluminium_helmet": "Aluminium Helmet",
+  "item.megalosmod.aluminium_chestplate": "Aluminium Chestplate",
+  "item.megalosmod.aluminium_leggings": "Aluminium Leggings",
+  "item.megalosmod.aluminium_boots": "Aluminium Boots",
+  "item.megalosmod.silver_helmet": "Silver Helmet",
+  "item.megalosmod.silver_chestplate": "Silver Chestplate",
+  "item.megalosmod.silver_leggings": "Silver Leggings",
+  "item.megalosmod.silver_boots": "Silver Boots",
+  "item.megalosmod.steel_helmet": "Steel Helmet",
+  "item.megalosmod.steel_chestplate": "Steel Chestplate",
+  "item.megalosmod.steel_leggings": "Steel Leggings",
+  "item.megalosmod.steel_boots": "Steel Boots",
+  "item.megalosmod.damascus_helmet": "Damascus Steel Helmet",
+  "item.megalosmod.damascus_chestplate": "Damascus Steel Chestplate",
+  "item.megalosmod.damascus_leggings": "Damascus Steel Leggings",
+  "item.megalosmod.damascus_boots": "Damascus Steel Boots",
+  "item.megalosmod.titanium_helmet": "Titanium Helmet",
+  "item.megalosmod.titanium_chestplate": "Titanium Chestplate",
+  "item.megalosmod.titanium_leggings": "Titanium Leggings",
+  "item.megalosmod.titanium_boots": "Titanium Boots",
+
   "block.megalosmod.aluminium_ore": "Bauxite Ore",
   "block.megalosmod.aluminium_block": "Aluminium Block",
   "block.megalosmod.antimony_ore": "Stibnite Ore",
@@ -1206,7 +1227,8 @@
   "block.megalosmod.ferrotitanium_block": "Ferrotitanium Block",
   "block.megalosmod.ferrovanadium_block": "Ferrovanadium Block",
 
-  "itemGroup.megalosmod.metallurgy": "Megalo's Mod - Metallurgy",
-  "itemGroup.megalosmod.alloy": "Megalo's Mod - Alloys",
-  "itemGroup.megalosmod.hoplology": "Megalo's Mod - Hoplology"
+  "itemGroup.megalosmod.metallurgy": "Megalo's Metallurgy",
+  "itemGroup.megalosmod.alloy": "Megalo's Alloys",
+  "itemGroup.megalosmod.hoplology": "Megalo's Hoplology",
+  "itemGroup.megalosmod.technology": "Megalo's Technology"
 }

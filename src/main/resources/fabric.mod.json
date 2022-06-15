@@ -4,9 +4,9 @@
   "version": "${version}",
 
   "name": "Megalo's Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Where there is not enough Ore in the world, this mod will cover that need.",
   "authors": [
-    "MegaloGamingT4F aka v_megalo_v!"
+    "MegaloGamingT4F"
   ],
   "contact": {
     "homepage": "https://twitch.tv/megalogamingt4f/",

@@ -183,13 +183,13 @@ public class ModItems {
     public static final Item BERYLLIUM_DUST = registerItem("beryllium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item BISMUTH_DUST = registerItem("bismuth_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CADMIUM_DUST = registerItem("cadmium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item CALCIUM_DUST = registerItem("calcium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CAESIUM_DUST = registerItem("caesium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item CALCIUM_DUST = registerItem("calcium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CHROMIUM_DUST = registerItem("chromium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item CINNABAR_DUST = registerItem("cinnabar_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item COBALT_DUST = registerItem("cobalt_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
-    public static final Item GERMANIUM_DUST = registerItem("germanium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item GALLIUM_DUST = registerItem("gallium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
+    public static final Item GERMANIUM_DUST = registerItem("germanium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item HAFNIUM_DUST = registerItem("hafnium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item INDIUM_DUST = registerItem("indium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
     public static final Item IRIDIUM_DUST = registerItem("iridium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.METALLURGY)));
@@ -955,7 +955,7 @@ public class ModItems {
     public static final Item DAMASCUS_HELMET = registerItem("damascus_helmet", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.HEAD, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item DAMASCUS_CHESTPLATE = registerItem("damascus_chestplate", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.CHEST, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item DAMASCUS_LEGGINGS = registerItem("damascus_leggings", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
-    public static final Item DAMASCUS_BOOTS = registerItem("damasus_boots", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item DAMASCUS_BOOTS = registerItem("damascus_boots", new ArmorItem(ModArmorMaterials.DAMASCUS, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
     public static final Item TITANIUM_HELMET = registerItem("titanium_helmet", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.HEAD, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item TITANIUM_CHESTPLATE = registerItem("titanium_chestplate", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.CHEST, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
