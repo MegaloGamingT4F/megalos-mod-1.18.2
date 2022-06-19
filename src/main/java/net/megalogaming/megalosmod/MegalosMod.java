@@ -3,6 +3,8 @@ package net.megalogaming.megalosmod;
 import net.fabricmc.api.ModInitializer;
 import net.megalogaming.megalosmod.block.ModBlocks;
 import net.megalogaming.megalosmod.item.ModItems;
+import net.megalogaming.megalosmod.world.feature.ModConfiguredFeatures;
+import net.megalogaming.megalosmod.world.gen.ModWorldGen;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -12,8 +14,11 @@ public class MegalosMod implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        ModConfiguredFeatures.registerConfiguredFeatures();
 
         ModBlocks.registerModBlocks();
         ModItems.registerModItems();
+
+        ModWorldGen.generateModWorldGen();
     }
 }
