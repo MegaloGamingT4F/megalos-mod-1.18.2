@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lithium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:lithium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:lithium_dust",
+    "count": 9
+  }
+}

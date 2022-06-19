@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "nickel_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:nickel_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:nickel_dust",
+    "count": 9
+  }
+}

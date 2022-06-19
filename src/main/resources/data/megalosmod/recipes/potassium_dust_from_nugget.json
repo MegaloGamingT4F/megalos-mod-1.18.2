@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "potassium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:potassium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:potassium_dust",
+    "count": 9
+  }
+}

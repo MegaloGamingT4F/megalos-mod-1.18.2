@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "niobium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:niobium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:niobium_dust",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "hafnium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:hafnium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:hafnium_dust",
+    "count": 9
+  }
+}

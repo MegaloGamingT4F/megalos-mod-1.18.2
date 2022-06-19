@@ -7,10 +7,10 @@
   ],
   "key": {
     "#": {
-      "item": "megalosmod:aluminium_nugget"
+      "item": "megalosmod:calcium_ingot"
     }
   },
   "result": {
-    "item": "megalosmod:aluminium_ingot"
+    "item": "megalosmod:calcium_block"
   }
 }

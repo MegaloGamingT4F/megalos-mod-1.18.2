@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "osmium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:osmium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:osmium_dust",
+    "count": 9
+  }
+}

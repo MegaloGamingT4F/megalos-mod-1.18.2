@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "titanium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:titanium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:titanium_dust",
+    "count": 9
+  }
+}

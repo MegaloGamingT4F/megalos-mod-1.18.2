@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:aluminium_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmod:aluminium_chestplate"
+  }
+}

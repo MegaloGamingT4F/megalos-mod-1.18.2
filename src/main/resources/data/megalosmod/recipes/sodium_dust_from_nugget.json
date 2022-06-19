@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sodium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:sodium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:sodium_dust",
+    "count": 9
+  }
+}

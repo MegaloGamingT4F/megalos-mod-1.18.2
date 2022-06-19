@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chromium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:chromium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:chromium_dust",
+    "count": 9
+  }
+}

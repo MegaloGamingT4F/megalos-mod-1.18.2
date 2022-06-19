@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rhodium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:rhodium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:rhodium_dust",
+    "count": 9
+  }
+}

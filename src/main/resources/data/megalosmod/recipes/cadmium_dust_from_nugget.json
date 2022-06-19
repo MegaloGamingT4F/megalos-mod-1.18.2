@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cadmium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:cadmium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:cadmium_dust",
+    "count": 9
+  }
+}
