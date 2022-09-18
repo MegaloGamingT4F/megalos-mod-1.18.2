@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "megalosmod:items/technetium_nugget"
+    "layer0": "megalosmod:item/technetium_nugget"
   }
 }

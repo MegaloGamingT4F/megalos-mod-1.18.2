@@ -11,154 +11,204 @@ public class ModConfiguredFeatures {
     //Stone
     public static final List<OreFeatureConfig.Target> ALUMINIUM_ORES = List.of(
             OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ALUMINIUM_ORE.getDefaultState()),
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_ALUMINIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_ALUMINIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.NETHERRACK, ModBlocks.NETHERRACK_ALUMINIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> ANTIMONY_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ANTIMONY_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ANTIMONY_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_ANTIMONY_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> ARSENIC_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ARSENIC_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ARSENIC_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_ARSENIC_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> BARIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.BARIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.BARIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_BARIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> BERYLLIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.BERYLLIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.BERYLLIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_BERYLLIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> BISMUTH_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.BISMUTH_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.BISMUTH_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_BISMUTH_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> CADMIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CADMIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CADMIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_CADMIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> CAESIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CAESIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CAESIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_CAESIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> CALCIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CALCIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CALCIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_CALCIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> CHROMIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CHROMIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CHROMIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_CHROMIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> CINNABAR_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CINNABAR_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.CINNABAR_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_CINNABAR_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> COBALT_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.COBALT_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.COBALT_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_COBALT_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> GERMANIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.GERMANIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.GERMANIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_GERMANIUM_ORE.getDefaultState()));
 
     public static final List<OreFeatureConfig.Target> GALLIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.GALLIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.GALLIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_GALLIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> HAFNIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.HAFNIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.HAFNIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_HAFNIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> INDIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.INDIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.INDIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_INDIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> IRIDIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.IRIDIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.IRIDIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_IRIDIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> LEAD_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.LEAD_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.LEAD_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_LEAD_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> LITHIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.LITHIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.LITHIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_LITHIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> MAGNESIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.MAGNESIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.MAGNESIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_MAGNESIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> MANGANESE_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.MANGANESE_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.MANGANESE_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_MANGANESE_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> MOLYBDENUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.MOLYBDENUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.MOLYBDENUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_MOLYBDENUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> NICKEL_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.NICKEL_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.NICKEL_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_NICKEL_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> NIOBIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.NIOBIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.NIOBIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_NIOBIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> OSMIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.OSMIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.OSMIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_OSMIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> PALLADIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.PALLADIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.PALLADIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_PALLADIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> PHOSPHORUS_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.PHOSPHORUS_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.PHOSPHORUS_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_PHOSPHORUS_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> PLATINUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.PLATINUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.PLATINUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_PLATINUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> POTASSIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.POTASSIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.POTASSIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_POTASSIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> RHENIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.RHENIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.RHENIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_RHENIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> RHODIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.RHODIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.RHODIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_RHODIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> RUBIDIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.RUBIDIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.RUBIDIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_RUBIDIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> RUTHENIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.RUTHENIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.RUTHENIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_RUTHENIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> SCANDIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SCANDIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SCANDIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_SCANDIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> SELENIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SELENIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SELENIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_SELENIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> SILICON_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SILICON_ORE.getDefaultState()));
-    
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SILICON_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_SILICON_ORE.getDefaultState()));
+
     public static final List<OreFeatureConfig.Target> SILVER_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SILVER_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SILVER_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_SILVER_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> SODIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SODIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SODIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_SODIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> STRONTIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.STRONTIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.STRONTIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_STRONTIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> TANTALUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TANTALUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TANTALUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_TANTALUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> TECHNETIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TECHNETIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TECHNETIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_TECHNETIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> TELLURIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TELLURIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TELLURIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_TELLURIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> THALLIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.THALLIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.THALLIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_THALLIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> TIN_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TIN_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TIN_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_TIN_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> TITANIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TITANIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TITANIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_TITANIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> TUNGSTEN_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TUNGSTEN_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.TUNGSTEN_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_TUNGSTEN_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> VANADIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.VANADIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.VANADIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_VANADIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> YTTRIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.YTTRIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.YTTRIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_YTTRIUM_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> ZINC_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ZINC_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ZINC_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_ZINC_ORE.getDefaultState()));
     
     public static final List<OreFeatureConfig.Target> ZIRCONIUM_ORES = List.of(
-            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ZIRCONIUM_ORE.getDefaultState()));
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.STONE_ORE_REPLACEABLES, ModBlocks.ZIRCONIUM_ORE.getDefaultState()),
+            OreFeatureConfig.createTarget(OreConfiguredFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_ZIRCONIUM_ORE.getDefaultState()));
 
     //Stone
     public static final RegistryEntry<ConfiguredFeature<OreFeatureConfig, ?>> ALUMINIUM_ORE = ConfiguredFeatures.register("aluminium_ore", Feature.ORE, new OreFeatureConfig(ALUMINIUM_ORES,9));

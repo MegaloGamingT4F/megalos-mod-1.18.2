@@ -1078,7 +1078,7 @@
   "block.megalosmod.devarda_block": "Devarda's Alloy Block",
   "block.megalosmod.dutchmetal_block": "Dutch Metal Block",
   "block.megalosmod.florentine_block": "Florentine Bronze Block",
-  "block,megalosmod.gildmetal_block": "Gilding Metal Block",
+  "block.megalosmod.gildmetal_block": "Gilding Metal Block",
   "block.megalosmod.glucydur_block": "Glucydur Block",
   "block.megalosmod.guanin_block": "Guanin Block",
   "block.megalosmod.gunmetal_block": "Gunmetal Block",
@@ -1210,7 +1210,6 @@
 
   "block.megalosmod.zircaloy_block": "Zircaloy Block",
 
-  "block.megalosmod.gildmetal_block": "Gilding Metal Block",
   "block.megalosmod.conife_block": "Conife Block",
   "block.megalosmod.hausler_block": "Hausler Block",
   "block.megalosmod.anthracite_block": "Anthracite Block",
@@ -1226,6 +1225,8 @@
   "block.megalosmod.ferrosilicon_block": "Ferrosilicon Block",
   "block.megalosmod.ferrotitanium_block": "Ferrotitanium Block",
   "block.megalosmod.ferrovanadium_block": "Ferrovanadium Block",
+
+  "block.megalosmod.metallurgic_furnace": "Metallurgic Furnace",
 
   "itemGroup.megalosmod.metallurgy": "Megalo's Metallurgy",
   "itemGroup.megalosmod.alloy": "Megalo's Alloys",

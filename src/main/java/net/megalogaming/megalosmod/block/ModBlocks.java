@@ -3,6 +3,7 @@ package net.megalogaming.megalosmod.block;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.megalogaming.megalosmod.MegalosMod;
+import net.megalogaming.megalosmod.block.custom.MetallurgicFurnaceBlock;
 import net.megalogaming.megalosmod.itemgroup.MegalosModItemGroup;
 import net.minecraft.block.Block;
 import net.minecraft.block.Material;
@@ -73,11 +74,13 @@ public class ModBlocks {
     public static final Block DEEPSLATE_BARIUM_ORE = registerblock("deepslate_barium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_BERYLLIUM_ORE = registerblock("deepslate_beryllium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_BISMUTH_ORE = registerblock("deepslate_bismuth_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_CADMIUM_ORE = registerblock("deepslate_cadmium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_CALCIUM_ORE = registerblock("deepslate_calcium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_CAESIUM_ORE = registerblock("deepslate_caesium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_CHROMIUM_ORE = registerblock("deepslate_chromium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_CINNABAR_ORE = registerblock("deepslate_cinnabar_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_COBALT_ORE = registerblock("deepslate_cobalt_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
+    public static final Block DEEPSLATE_GALLIUM_ORE = registerblock("deepslate_gallium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_GERMANIUM_ORE = registerblock("deepslate_germanium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_HAFNIUM_ORE = registerblock("deepslate_hafnium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block DEEPSLATE_INDIUM_ORE = registerblock("deepslate_indium_ore", new Block(FabricBlockSettings.of(Material.STONE).strength(4.5f).requiresTool()), MegalosModItemGroup.METALLURGY);
@@ -491,6 +494,10 @@ public class ModBlocks {
 
     //Alloy Block - Zirconium
     public static final Block ZIRCALOY_BLOCK = registerblock("zircaloy_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
+
+    //Furnace
+    public static final Block METALLURGIC_FURNACE = registerblock("metallurgic_furnace",
+            new MetallurgicFurnaceBlock(FabricBlockSettings.of(Material.METAL).nonOpaque()), MegalosModItemGroup.TECHHNOLOGY);
 
     private static Block registerblock(String name, Block block, ItemGroup group){
         registerBlockItem(name, block, group);

@@ -2,7 +2,10 @@ package net.megalogaming.megalosmod;
 
 import net.fabricmc.api.ModInitializer;
 import net.megalogaming.megalosmod.block.ModBlocks;
+import net.megalogaming.megalosmod.block.entity.ModBlockEntities;
 import net.megalogaming.megalosmod.item.ModItems;
+import net.megalogaming.megalosmod.recipe.ModRecipes;
+import net.megalogaming.megalosmod.screen.ModScreenHandlers;
 import net.megalogaming.megalosmod.world.feature.ModConfiguredFeatures;
 import net.megalogaming.megalosmod.world.gen.ModWorldGen;
 import org.apache.logging.log4j.LogManager;
@@ -20,5 +23,10 @@ public class MegalosMod implements ModInitializer {
         ModItems.registerModItems();
 
         ModWorldGen.generateModWorldGen();
+
+        ModBlockEntities.registerAllBlockEntities();
+        ModRecipes.registerRecipes();
+
+        ModScreenHandlers.registerAllScreenHandlers();
     }
 }
