@@ -17,4 +17,13 @@ public class MegalosModItemGroup {
             () -> new ItemStack(ModItems.ALUMINIUM_AXE));
     public static final ItemGroup TECHHNOLOGY = FabricItemGroupBuilder.build(new Identifier(MegalosMod.MOD_ID, "technology"),
             () -> new ItemStack(ModItems.COAL_DUST));
+
+    public static final ItemGroup GASTRONOMY = FabricItemGroupBuilder.build(new Identifier(MegalosMod.MOD_ID, "gastronomy"),
+            () -> new ItemStack(ModItems.COAL_DUST));
+
+    public static final ItemGroup GEOLOGY = FabricItemGroupBuilder.build(new Identifier(MegalosMod.MOD_ID, "geology"),
+            () -> new ItemStack(ModItems.COAL_DUST));
+
+    public static final ItemGroup DENDROLOGY = FabricItemGroupBuilder.build(new Identifier(MegalosMod.MOD_ID, "dendrology"),
+            () -> new ItemStack(ModItems.COAL_DUST));
 }

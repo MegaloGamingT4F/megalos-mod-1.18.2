@@ -70,13 +70,11 @@ public class MetallurgicFurnaceBlockEntity extends BlockEntity implements NamedS
 
     @Override
     public DefaultedList<ItemStack> getItems() {
-
         return inventory;
     }
 
     @Override
     public Text getDisplayName() {
-
         return new LiteralText("Metallurgic Furnace");
     }
 

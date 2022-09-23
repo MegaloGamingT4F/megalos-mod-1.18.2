@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "caesium_ingot",
+  "ingredient": {
+    "item": "megalosmod:netherrack_caesium_ore"
+  },
+  "result": "megalosmod:caesium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

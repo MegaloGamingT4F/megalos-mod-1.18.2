@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "tellurium_ingot",
+  "ingredient": {
+    "item": "megalosmod:netherrack_tellurium_ore"
+  },
+  "result": "megalosmod:tellurium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

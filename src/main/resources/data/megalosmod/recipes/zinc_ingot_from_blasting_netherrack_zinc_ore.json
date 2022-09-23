@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "zinc_ingot",
+  "ingredient": {
+    "item": "megalosmod:netherrack_zinc_ore"
+  },
+  "result": "megalosmod:zinc_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "cadmium_ingot",
+  "ingredient": {
+    "item": "megalosmod:netherrack_cadmium_ore"
+  },
+  "result": "megalosmod:cadmium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}
