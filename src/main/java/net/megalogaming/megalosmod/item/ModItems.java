@@ -2,16 +2,14 @@ package net.megalogaming.megalosmod.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.megalogaming.megalosmod.MegalosMod;
+import net.megalogaming.megalosmod.block.ModBlocks;
 import net.megalogaming.megalosmod.item.tools.ModAxeItem;
 import net.megalogaming.megalosmod.item.tools.ModHoeItem;
 import net.megalogaming.megalosmod.item.tools.ModPickaxeItem;
 import net.megalogaming.megalosmod.item.tools.ModShovelItem;
 import net.megalogaming.megalosmod.itemgroup.MegalosModItemGroup;
 import net.minecraft.entity.EquipmentSlot;
-import net.minecraft.item.ArmorItem;
-import net.minecraft.item.AxeItem;
-import net.minecraft.item.Item;
-import net.minecraft.item.SwordItem;
+import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
 
 import net.minecraft.util.registry.Registry;
@@ -961,6 +959,10 @@ public class ModItems {
     public static final Item TITANIUM_CHESTPLATE = registerItem("titanium_chestplate", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.CHEST, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item TITANIUM_LEGGINGS = registerItem("titanium_leggings", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item TITANIUM_BOOTS = registerItem("titanium_boots", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+
+    public static final Item JALAPENO_SEEDS = registerItem("",
+            new AliasedBlockItem(ModBlocks.JALAPENO_PLANT,
+                    new FabricItemSettings().group(MegalosModItemGroup.GASTRONOMY).maxCount(1)));
 
 private static Item registerItem(String name, Item item){
     return Registry.register(Registry.ITEM, new Identifier(MegalosMod.MOD_ID, name), item);

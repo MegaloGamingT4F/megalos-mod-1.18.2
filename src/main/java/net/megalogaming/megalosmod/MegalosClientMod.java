@@ -8,6 +8,10 @@ import net.minecraft.client.render.RenderLayer;
 public class MegalosClientMod implements ClientModInitializer {
     @Override
     public void onInitializeClient(){
+        //Tech
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.METALLURGIC_FURNACE, RenderLayer.getCutout());
+
+        //Plants
+        BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.JALAPENO_PLANT,RenderLayer.getCutout());
     }
 }

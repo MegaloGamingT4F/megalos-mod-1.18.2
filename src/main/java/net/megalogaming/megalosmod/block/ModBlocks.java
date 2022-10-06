@@ -3,9 +3,11 @@ package net.megalogaming.megalosmod.block;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.megalogaming.megalosmod.MegalosMod;
+import net.megalogaming.megalosmod.block.custom.JalapenoCropBlock;
 import net.megalogaming.megalosmod.block.custom.MetallurgicFurnaceBlock;
 import net.megalogaming.megalosmod.itemgroup.MegalosModItemGroup;
 import net.minecraft.block.Block;
+import net.minecraft.block.Blocks;
 import net.minecraft.block.Material;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -273,7 +275,6 @@ public class ModBlocks {
     public static final Block RAW_ZINC_BLOCK = registerBlock("raw_zinc_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
     public static final Block RAW_ZIRCONIUM_BLOCK = registerBlock("raw_zirconium_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.METALLURGY);
 
-    //Megalo's Alloys
     //Alloy Block - Aluminium
     public static final Block AA_BLOCK = registerBlock("aa_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block AILI_BLOCK = registerBlock("aili_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
@@ -499,6 +500,10 @@ public class ModBlocks {
     public static final Block METALLURGIC_FURNACE = registerBlock("metallurgic_furnace",
             new MetallurgicFurnaceBlock(FabricBlockSettings.of(Material.METAL).nonOpaque()), MegalosModItemGroup.TECHHNOLOGY);
 
+    //Crops
+    public static final Block JALAPENO_PLANT = registerBlockWithoutBlockItem("jalapeno_plant",
+            new JalapenoCropBlock(FabricBlockSettings.copy(Blocks.WHEAT).nonOpaque()), MegalosModItemGroup.GASTRONOMY);
+
     private static Block registerBlock(String name, Block block, ItemGroup group){
         registerBlockItem(name, block, group);
         return Registry.register(Registry.BLOCK, new Identifier(MegalosMod.MOD_ID, name), block);
@@ -507,6 +512,10 @@ public class ModBlocks {
     private static Item registerBlockItem(String name, Block block, ItemGroup group){
         return Registry.register(Registry.ITEM, new Identifier(MegalosMod.MOD_ID, name),
                 new BlockItem(block, new FabricItemSettings().group(group)));
+    }
+
+    private static Block registerBlockWithoutBlockItem(String name, Block block, ItemGroup group){
+        return Registry.register(Registry.BLOCK, new Identifier(MegalosMod.MOD_ID, name), block);
     }
     public static void registerModBlocks(){
         MegalosMod.LOGGER.info("Registering ModBlocks for" + MegalosMod.MOD_ID);

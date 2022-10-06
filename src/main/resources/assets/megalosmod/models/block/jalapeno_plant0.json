@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "megalosmod:block/jalapeno_plant0"
+  }
+}

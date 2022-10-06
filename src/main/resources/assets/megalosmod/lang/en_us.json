@@ -769,6 +769,8 @@
   "item.megalosmod.titanium_leggings": "Titanium Leggings",
   "item.megalosmod.titanium_boots": "Titanium Boots",
 
+  "item.megalosmod.jalapeno_seeds": "Jalapeno Seeds",
+
   "block.megalosmod.aluminium_ore": "Bauxite Ore",
   "block.megalosmod.aluminium_block": "Aluminium Block",
   "block.megalosmod.antimony_ore": "Stibnite Ore",
@@ -1227,6 +1229,8 @@
   "block.megalosmod.ferrovanadium_block": "Ferrovanadium Block",
 
   "block.megalosmod.metallurgic_furnace": "Metallurgic Furnace",
+
+  "block.megalosmod.jalapeno_plant": "Jalapeno Plant",
 
   "itemGroup.megalosmod.metallurgy": "Megalo's Metallurgy",
   "itemGroup.megalosmod.alloy": "Megalo's Alloys",
