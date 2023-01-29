@@ -327,7 +327,7 @@ public class ModBlocks {
     public static final Block BRONZE_BLOCK = registerBlock("bronze_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block CALAMINE_BLOCK = registerBlock("calamine_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block CHISIL_BLOCK = registerBlock("chisil_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
-    public static final Block CONIFE_BLOCK = registerBlock("conife_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
+    public static final Block CUNIFE_BLOCK = registerBlock("cunife_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block CONSTANTAN_BLOCK = registerBlock("constantan_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block COPHYD_BLOCK = registerBlock("cophyd_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
     public static final Block COPTUNG_BLOCK = registerBlock("coptung_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
@@ -495,6 +495,13 @@ public class ModBlocks {
 
     //Alloy Block - Zirconium
     public static final Block ZIRCALOY_BLOCK = registerBlock("zircaloy_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
+
+    //Geology Blocks
+    public static final Block HEMATITE_BLOCK = registerBlock("hematite_block", new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), MegalosModItemGroup.GEOLOGY);
+
+    //Dendrology Blocks
+    public static final Block BLACKASH_LOG = registerBlock("blackash_log", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+    public static final Block BLACKASH_PLANKS = registerBlock("blackash_planks", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
 
     //Furnace
     public static final Block METALLURGIC_FURNACE = registerBlock("metallurgic_furnace",

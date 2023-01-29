@@ -1,13 +1,17 @@
 package net.megalogaming.megalosmod.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
+import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.megalogaming.megalosmod.MegalosMod;
 import net.megalogaming.megalosmod.block.ModBlocks;
+import net.megalogaming.megalosmod.block.custom.JalapenoCropBlock;
 import net.megalogaming.megalosmod.item.tools.ModAxeItem;
 import net.megalogaming.megalosmod.item.tools.ModHoeItem;
 import net.megalogaming.megalosmod.item.tools.ModPickaxeItem;
 import net.megalogaming.megalosmod.item.tools.ModShovelItem;
 import net.megalogaming.megalosmod.itemgroup.MegalosModItemGroup;
+import net.minecraft.block.Block;
+import net.minecraft.block.Blocks;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
@@ -277,7 +281,7 @@ public class ModItems {
     public static final Item BRONZE_INGOT = registerItem("bronze_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CALAMINE_INGOT = registerItem("calamine_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CHISIL_INGOT = registerItem("chisil_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
-    public static final Item CONIFE_INGOT = registerItem("conife_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
+    public static final Item CUNIFE_INGOT = registerItem("cunife_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CONSTANTAN_INGOT = registerItem("constantan_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COPHYD_INGOT = registerItem("cophyd_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COPTUNG_INGOT = registerItem("coptung_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
@@ -499,7 +503,7 @@ public class ModItems {
     public static final Item BRONZE_NUGGET = registerItem("bronze_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CALAMINE_NUGGET = registerItem("calamine_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CHISIL_NUGGET = registerItem("chisil_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
-    public static final Item CONIFE_NUGGET = registerItem("conife_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
+    public static final Item CUNIFE_NUGGET = registerItem("cunife_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CONSTANTAN_NUGGET = registerItem("constantan_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COPHYD_NUGGET = registerItem("cophyd_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COPTUNG_NUGGET = registerItem("coptung_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
@@ -721,7 +725,7 @@ public class ModItems {
     public static final Item BRONZE_DUST = registerItem("bronze_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CALAMINE_DUST = registerItem("calamine_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CHISIL_DUST = registerItem("chisil_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
-    public static final Item CONIFE_DUST = registerItem("conife_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
+    public static final Item CUNIFE_DUST = registerItem("cunife_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CONSTANTAN_DUST = registerItem("constantan_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COPHYD_DUST = registerItem("cophyd_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COPTUNG_DUST = registerItem("coptung_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
@@ -960,10 +964,15 @@ public class ModItems {
     public static final Item TITANIUM_LEGGINGS = registerItem("titanium_leggings", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item TITANIUM_BOOTS = registerItem("titanium_boots", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
-    public static final Item JALAPENO_SEEDS = registerItem("",
-            new AliasedBlockItem(ModBlocks.JALAPENO_PLANT,
-                    new FabricItemSettings().group(MegalosModItemGroup.GASTRONOMY).maxCount(1)));
+    //Crops
+    public static final Item JALAPENO_SEEDS = registerItem("jalapeno_seeds", new Item(new FabricItemSettings().group(MegalosModItemGroup.GASTRONOMY)));
+    public static final Item JALAPENO_CROP = registerItem("jalapeno_crop", new Item(new FabricItemSettings().group(MegalosModItemGroup.GASTRONOMY)));
 
+    //Dendrology
+    public static final Item BLACKASH_SAPLING = registerItem("blackash_sapling", new Item(new FabricItemSettings().group(MegalosModItemGroup.DENDROLOGY)));
+
+    //Geology
+    public static final Item HEMATITE_STONE = registerItem("hematite_stone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
 private static Item registerItem(String name, Item item){
     return Registry.register(Registry.ITEM, new Identifier(MegalosMod.MOD_ID, name), item);
 }
