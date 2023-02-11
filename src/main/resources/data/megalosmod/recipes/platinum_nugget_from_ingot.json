@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "platinum_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:platinum_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:platinum_nugget",
+    "count": 9
+  }
+}

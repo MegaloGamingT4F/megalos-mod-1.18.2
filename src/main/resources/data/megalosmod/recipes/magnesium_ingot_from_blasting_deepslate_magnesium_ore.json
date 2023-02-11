@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "magnesium_ingot",
+  "ingredient": {
+    "item": "megalosmod:deepslate_magnesium_ore"
+  },
+  "result": "megalosmod:magnesium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

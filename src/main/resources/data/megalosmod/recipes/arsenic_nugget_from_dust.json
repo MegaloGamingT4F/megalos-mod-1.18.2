@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:arsenic_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmod:arsenic_nugget"
+  }
+}

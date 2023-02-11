@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "antimony_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmod:antimony_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:antimony_ingot",
+    "count": 9
+  }
+}

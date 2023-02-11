@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "strontium_ingot",
+  "ingredient": {
+    "item": "megalosmod:strontium_ore"
+  },
+  "result": "megalosmod:strontium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

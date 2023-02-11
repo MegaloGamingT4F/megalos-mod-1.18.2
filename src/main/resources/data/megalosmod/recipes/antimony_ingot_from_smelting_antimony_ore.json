@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "antimony_ingot",
+  "ingredient": {
+    "item": "megalosmod:antimony_ore"
+  },
+  "result": "megalosmod:antimony_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

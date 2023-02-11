@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "tellurium_ingot",
+  "ingredient": {
+    "item": "megalosmod:raw_tellurium"
+  },
+  "result": "megalosmod:tellurium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

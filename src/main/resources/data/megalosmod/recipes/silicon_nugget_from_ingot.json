@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "silicon_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:silicon_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:silicon_nugget",
+    "count": 9
+  }
+}

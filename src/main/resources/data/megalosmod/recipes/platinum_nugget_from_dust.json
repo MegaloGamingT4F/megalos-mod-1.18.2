@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:platinum_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmod:platinum_nugget"
+  }
+}

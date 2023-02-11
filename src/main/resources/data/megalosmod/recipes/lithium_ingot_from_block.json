@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lithium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmod:lithium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:lithium_ingot",
+    "count": 9
+  }
+}

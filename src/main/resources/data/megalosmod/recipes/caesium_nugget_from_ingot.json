@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "caesium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:caesium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:caesium_nugget",
+    "count": 9
+  }
+}

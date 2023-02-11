@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "magnesium_ingot",
+  "ingredient": {
+    "item": "megalosmod:magnesium_ore"
+  },
+  "result": "megalosmod:magnesium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

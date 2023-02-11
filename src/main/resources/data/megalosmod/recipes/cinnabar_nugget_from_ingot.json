@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cinnabar_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:cinnabar_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:cinnabar_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "selenium_ingot",
+  "ingredient": {
+    "item": "megalosmod:raw_selenium"
+  },
+  "result": "megalosmod:selenium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "hafnium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmod:hafnium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:hafnium_ingot",
+    "count": 9
+  }
+}

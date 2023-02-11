@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:rhenium_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmod:rhenium_ingot"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "niobium_ingot",
+  "ingredient": {
+    "item": "megalosmod:raw_niobium"
+  },
+  "result": "megalosmod:niobium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

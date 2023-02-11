@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "technetium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:technetium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:technetium_nugget",
+    "count": 9
+  }
+}

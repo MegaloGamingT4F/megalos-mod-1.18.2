@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:palladium_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmod:palladium_ingot"
+  }
+}

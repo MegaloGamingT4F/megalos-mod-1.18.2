@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rhenium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:rhenium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:rhenium_nugget",
+    "count": 9
+  }
+}

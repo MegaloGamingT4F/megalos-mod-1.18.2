@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "gallium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmod:gallium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:gallium_ingot",
+    "count": 9
+  }
+}

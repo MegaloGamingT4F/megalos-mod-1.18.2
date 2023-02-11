@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "tantalum_ingot",
+  "ingredient": {
+    "item": "megalosmod:tantalum_ore"
+  },
+  "result": "megalosmod:tantalum_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

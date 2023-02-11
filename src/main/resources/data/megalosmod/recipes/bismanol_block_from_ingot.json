@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:bismanol_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:bismanol_block"
+  }
+}

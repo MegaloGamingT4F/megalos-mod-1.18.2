@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "bcd",
+        "efg"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmod:cobalt_dust"
+        },
+        "b": {
+            "item": "megalosmod:chromium_dust"
+        },
+        "c": {
+            "item": "megalosmod:nickel_dust"
+        },
+        "d": {
+            "item": "megalosmod:iron_dust"
+        },
+        "e": {
+            "item": "megalosmod:molybdenum_dust"
+        },
+        "f": {
+            "item": "megalosmod:mangnese_dust"
+        },
+        "g": {
+            "item": "megalosmod:coal_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:elgiloy_dust",
+	"count": 9 
+	}
+}

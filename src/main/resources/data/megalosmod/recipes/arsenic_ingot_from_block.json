@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "arsenic_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmod:arsenic_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:arsenic_ingot",
+    "count": 9
+  }
+}

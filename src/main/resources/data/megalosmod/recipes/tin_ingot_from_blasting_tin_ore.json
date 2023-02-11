@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "tin_ingot",
+  "ingredient": {
+    "item": "megalosmod:tin_ore"
+  },
+  "result": "megalosmod:tin_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

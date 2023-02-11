@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "barium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:barium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:barium_nugget",
+    "count": 9
+  }
+}

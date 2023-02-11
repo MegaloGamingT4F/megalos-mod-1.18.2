@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "zirconium_ingot",
+  "ingredient": {
+    "item": "megalosmod:raw_zirconium"
+  },
+  "result": "megalosmod:zirconium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

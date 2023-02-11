@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "zirconium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:zirconium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:zirconium_nugget",
+    "count": 9
+  }
+}

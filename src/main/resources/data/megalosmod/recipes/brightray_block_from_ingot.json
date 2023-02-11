@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:brightray_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:brightray_block"
+  }
+}

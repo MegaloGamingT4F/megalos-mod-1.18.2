@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "hafnium_ingot",
+  "ingredient": {
+    "item": "megalosmod:raw_hafnium"
+  },
+  "result": "megalosmod:hafnium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

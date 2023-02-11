@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "msm",
+        "pat",
+        "nuc"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmod:silicon_dust"
+        },
+        "p": {
+            "item": "megalosmod:phosphorus_dust"
+        },
+        "m": {
+            "item": "megalosmod:manganese_dust"
+        },
+        "a": {
+            "item": "megalosmod:aluminium_dust"
+        },
+        "t": {
+            "item": "megalosmod:titanium_dust"
+        },
+        "c": {
+            "item": "megalosmod:coal_dust"
+        },
+        "n": {
+            "item": "megalosmod:niobium_dust"
+        },
+        "u": {
+            "item": "megalosmod:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:ducol_dust",
+	"count": 9 
+	}
+}

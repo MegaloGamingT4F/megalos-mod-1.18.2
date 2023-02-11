@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bismuth_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:bismuth_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:bismuth_nugget",
+    "count": 9
+  }
+}

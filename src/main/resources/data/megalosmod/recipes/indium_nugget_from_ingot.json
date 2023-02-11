@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "indium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmod:indium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:indium_nugget",
+    "count": 9
+  }
+}
