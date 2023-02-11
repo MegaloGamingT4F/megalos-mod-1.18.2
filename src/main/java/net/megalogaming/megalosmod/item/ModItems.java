@@ -972,7 +972,10 @@ public class ModItems {
     public static final Item BLACKASH_SAPLING = registerItem("blackash_sapling", new Item(new FabricItemSettings().group(MegalosModItemGroup.DENDROLOGY)));
 
     //Geology
-    public static final Item HEMATITE_STONE = registerItem("hematite_stone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
+    public static final Item HEMATITE_GEMSTONE = registerItem("hematite_gemstone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
+    public static final Item APATITE_GEMSTONE = registerItem("apatite_gemstone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
+    public static final Item MARBLE_GEMSTONE = registerItem("apatite_gemstone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
+    public static final Item LEPIDOLITE_GEMSTONE = registerItem("lepidolite_gemstone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
 private static Item registerItem(String name, Item item){
     return Registry.register(Registry.ITEM, new Identifier(MegalosMod.MOD_ID, name), item);
 }

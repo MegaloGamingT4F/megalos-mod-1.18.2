@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "cis",
+        "iii"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmod:silicon_dust"
+        },
+        "c": {
+            "item": "megalosmod:coal_dust"
+        },
+        "i": {
+            "item": "megalosmod:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:castiron_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "zzz",
+        "ccc"
+    ],
+    "key": {
+        "z": {
+            "item": "megalosmod:zinc_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:calamine_dust",
+	"count": 9 
+	}
+}

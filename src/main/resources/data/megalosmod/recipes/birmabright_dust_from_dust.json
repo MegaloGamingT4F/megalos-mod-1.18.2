@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "aam",
+        "mnn"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmod:aluminium_dust"
+        },
+        "m": {
+            "item": "megalosmod:magnesium_dust"
+        },
+        "i": {
+            "item": "megalosmod:manganese_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:birmabright_dust",
+	"count": 9 
+	}
+}

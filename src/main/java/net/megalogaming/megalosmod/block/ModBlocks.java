@@ -498,10 +498,23 @@ public class ModBlocks {
 
     //Geology Blocks
     public static final Block HEMATITE_BLOCK = registerBlock("hematite_block", new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), MegalosModItemGroup.GEOLOGY);
+    public static final Block GNEISS_BLOCK = registerBlock("gneiss_block", new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), MegalosModItemGroup.GEOLOGY);
+    public static final Block MARBLE_BLOCK = registerBlock("merble_block", new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), MegalosModItemGroup.GEOLOGY);
 
-    //Dendrology Blocks
+    //Dendrology Logs
     public static final Block BLACKASH_LOG = registerBlock("blackash_log", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+    public static final Block WHITEASH_LOG = registerBlock("whiteash_log", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+    public static final Block GREENASH_LOG = registerBlock("greenash_log", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+
+    //Dendrology Planks
     public static final Block BLACKASH_PLANKS = registerBlock("blackash_planks", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+    public static final Block WHITEASH_PLANKS = registerBlock("whiteash_planks", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+    public static final Block GREENASH_PLANKS = registerBlock("greenash_planks", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+
+    //Dendrology Leaves
+    public static final Block BLACKASH_LEAVES = registerBlock("blackash_leaves", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+    public static final Block WHITEASH_LEAVES = registerBlock("whiteash_leaves", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
+    public static final Block GREENASH_LEAVES = registerBlock("greenash_leaves", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
 
     //Furnace
     public static final Block METALLURGIC_FURNACE = registerBlock("metallurgic_furnace",
