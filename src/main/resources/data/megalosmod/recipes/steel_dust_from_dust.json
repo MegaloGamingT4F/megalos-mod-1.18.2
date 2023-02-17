@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ccc",
+        "iii"
+    ],
+    "key": {
+        "c": {
+            "item": "megalosmod:coal_dust"
+        },
+        "i": {
+            "item": "megalosmod:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:steel_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "scc",
+        "scc",
+        "scc"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmod:silver_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:shibuichi_dust",
+	"count": 9 
+	}
+}

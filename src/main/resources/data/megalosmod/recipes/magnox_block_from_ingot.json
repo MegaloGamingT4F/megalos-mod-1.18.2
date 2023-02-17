@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:magnox_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:magnox_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:salfv_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:salfv_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:vitallium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:vitannium_dust",
+    "count": 9
+  }
+}

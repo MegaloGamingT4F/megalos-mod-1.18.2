@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:hydronalium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:hydronalium_block"
+  }
+}

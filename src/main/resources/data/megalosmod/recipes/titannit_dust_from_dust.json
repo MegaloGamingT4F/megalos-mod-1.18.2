@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "tst",
+        "tnt"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmod:titanium_dust"
+        },
+        "c": {
+            "item": "minecraft:nether_wart"
+        }
+    },
+    "result": {
+	"item": "megalosmod:titannit_dust",
+	"count": 9 
+	}
+}

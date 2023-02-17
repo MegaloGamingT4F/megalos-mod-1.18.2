@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        "ltc",
+        "bbb"
+    ],
+    "key": {
+        "b": {
+            "item": "megalosmod:bismuth_dust"
+        },
+        "c": {
+            "item": "megalosmod:cadmium_dust"
+        },
+        "l": {
+            "item": "megalosmod:lead_dust"
+        },
+        "t": {
+            "item": "megalosmod:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:woodsmetal_dust",
+	"count": 9 
+	}
+}

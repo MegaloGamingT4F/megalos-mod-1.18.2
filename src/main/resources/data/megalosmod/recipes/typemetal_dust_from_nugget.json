@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:typemetal_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:typemetal_dust",
+    "count": 9
+  }
+}

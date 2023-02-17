@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "mxc",
+        "sss"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmod:steel_dust"
+        },
+        "c": {
+            "item": "megalosmod:coal_dust"
+        },
+        "m": {
+            "item": "megalosmod:manganese_dust"
+        },
+        "x": {
+            "item": "megalosmod:molybdenum_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:reynolds_dust",
+	"count": 9 
+	}
+}

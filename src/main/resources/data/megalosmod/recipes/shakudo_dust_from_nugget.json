@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:shakudo_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:shakudo_dust",
+    "count": 9
+  }
+}

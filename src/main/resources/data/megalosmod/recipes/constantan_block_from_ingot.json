@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:constantan_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:constantan_block"
+  }
+}

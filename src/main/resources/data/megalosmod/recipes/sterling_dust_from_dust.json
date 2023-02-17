@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "scs",
+        "sss",
+        "scs"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmod:silver_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:sterling_dust",
+	"count": 9 
+	}
+}

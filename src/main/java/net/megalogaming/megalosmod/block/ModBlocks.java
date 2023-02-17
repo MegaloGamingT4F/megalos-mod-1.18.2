@@ -3,11 +3,9 @@ package net.megalogaming.megalosmod.block;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.megalogaming.megalosmod.MegalosMod;
-import net.megalogaming.megalosmod.block.custom.JalapenoCropBlock;
 import net.megalogaming.megalosmod.block.custom.MetallurgicFurnaceBlock;
 import net.megalogaming.megalosmod.itemgroup.MegalosModItemGroup;
 import net.minecraft.block.Block;
-import net.minecraft.block.Blocks;
 import net.minecraft.block.Material;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -496,33 +494,9 @@ public class ModBlocks {
     //Alloy Block - Zirconium
     public static final Block ZIRCALOY_BLOCK = registerBlock("zircaloy_block", new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), MegalosModItemGroup.ALLOY);
 
-    //Geology Blocks
-    public static final Block HEMATITE_BLOCK = registerBlock("hematite_block", new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), MegalosModItemGroup.GEOLOGY);
-    public static final Block GNEISS_BLOCK = registerBlock("gneiss_block", new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), MegalosModItemGroup.GEOLOGY);
-    public static final Block MARBLE_BLOCK = registerBlock("merble_block", new Block(FabricBlockSettings.of(Material.STONE).strength(6f).requiresTool()), MegalosModItemGroup.GEOLOGY);
-
-    //Dendrology Logs
-    public static final Block BLACKASH_LOG = registerBlock("blackash_log", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-    public static final Block WHITEASH_LOG = registerBlock("whiteash_log", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-    public static final Block GREENASH_LOG = registerBlock("greenash_log", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-
-    //Dendrology Planks
-    public static final Block BLACKASH_PLANKS = registerBlock("blackash_planks", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-    public static final Block WHITEASH_PLANKS = registerBlock("whiteash_planks", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-    public static final Block GREENASH_PLANKS = registerBlock("greenash_planks", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-
-    //Dendrology Leaves
-    public static final Block BLACKASH_LEAVES = registerBlock("blackash_leaves", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-    public static final Block WHITEASH_LEAVES = registerBlock("whiteash_leaves", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-    public static final Block GREENASH_LEAVES = registerBlock("greenash_leaves", new Block(FabricBlockSettings.of(Material.WOOD).strength(6f).requiresTool()), MegalosModItemGroup.DENDROLOGY);
-
     //Furnace
     public static final Block METALLURGIC_FURNACE = registerBlock("metallurgic_furnace",
             new MetallurgicFurnaceBlock(FabricBlockSettings.of(Material.METAL).nonOpaque()), MegalosModItemGroup.TECHHNOLOGY);
-
-    //Crops
-    public static final Block JALAPENO_PLANT = registerBlockWithoutBlockItem("jalapeno_plant",
-            new JalapenoCropBlock(FabricBlockSettings.copy(Blocks.WHEAT).nonOpaque()), MegalosModItemGroup.GASTRONOMY);
 
     private static Block registerBlock(String name, Block block, ItemGroup group){
         registerBlockItem(name, block, group);
@@ -538,6 +512,7 @@ public class ModBlocks {
         return Registry.register(Registry.BLOCK, new Identifier(MegalosMod.MOD_ID, name), block);
     }
     public static void registerModBlocks(){
+
         MegalosMod.LOGGER.info("Registering ModBlocks for" + MegalosMod.MOD_ID);
     }
 }

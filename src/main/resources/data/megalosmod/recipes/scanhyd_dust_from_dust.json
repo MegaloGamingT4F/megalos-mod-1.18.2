@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "sbs",
+        "sss"
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:potion"
+        },
+        "s": {
+            "item": "megalosmod:scandium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:scanhyd_dust",
+	"count": 9 
+	}
+}

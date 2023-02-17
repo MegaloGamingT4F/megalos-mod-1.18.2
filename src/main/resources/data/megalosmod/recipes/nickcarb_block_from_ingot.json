@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:nickcarb_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:nikcarb_block"
+  }
+}

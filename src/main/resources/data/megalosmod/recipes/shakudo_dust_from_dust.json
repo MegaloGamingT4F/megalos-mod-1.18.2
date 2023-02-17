@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "gcg",
+        "gag"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmod:arsenic_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        },
+        "g": {
+            "item": "megalosmod:gold_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:shakudo_dust",
+	"count": 9 
+	}
+}

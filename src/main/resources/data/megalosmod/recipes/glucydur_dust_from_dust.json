@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cbc",
+        "ccc",
+        "cnc"
+    ],
+    "key": {
+        "b": {
+            "item": "megalosmod:beryllium_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        },
+        "n": {
+            "item": "megalosmod:nickel_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:glucydur_dust",
+	"count": 9 
+	}
+}

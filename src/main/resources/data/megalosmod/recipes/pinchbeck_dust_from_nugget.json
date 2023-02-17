@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:pinchbeck_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:pinchbeck_dust",
+    "count": 9
+  }
+}

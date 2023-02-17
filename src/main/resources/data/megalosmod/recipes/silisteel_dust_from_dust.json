@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "xxx",
+        "sss"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmod:steel_dust"
+        },
+        "x": {
+            "item": "megalosmod:silicon_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:silisteel_dust",
+	"count": 9 
+	}
+}

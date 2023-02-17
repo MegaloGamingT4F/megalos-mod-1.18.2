@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:chromoly_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:chromoly_block"
+  }
+}

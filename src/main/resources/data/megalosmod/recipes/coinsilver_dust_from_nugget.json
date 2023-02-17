@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:coinsilver_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:coinsilver_dust",
+    "count": 9
+  }
+}

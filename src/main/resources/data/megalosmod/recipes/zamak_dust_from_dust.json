@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "zzz",
+        "zzz",
+        "amc"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmod:aluminium_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        },
+        "m": {
+            "item": "megalosmod:magnesium_dust"
+        },
+        "z": {
+            "item": "megalosmod:zinc_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:zamak_dust",
+	"count": 9 
+	}
+}

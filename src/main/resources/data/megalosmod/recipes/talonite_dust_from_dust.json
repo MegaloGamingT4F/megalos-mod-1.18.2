@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "tct",
+        "xxx"
+    ],
+    "key": {
+        "c": {
+            "item": "megalosmod:cobalt_dust"
+        },
+        "t": {
+            "item": "megalosmod:tungsten_dust"
+        },
+        "x": {
+            "item": "megalosmod:chromium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:talonite_dust",
+	"count": 9 
+	}
+}

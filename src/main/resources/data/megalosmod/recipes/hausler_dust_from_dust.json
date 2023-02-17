@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cmc",
+        "tmt",
+        "cmc"
+    ],
+    "key": {
+        "m": {
+            "item": "megalosmod:manganese_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        },
+        "t": {
+            "item": "megalosmod:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:hausler_dust",
+	"count": 9 
+	}
+}

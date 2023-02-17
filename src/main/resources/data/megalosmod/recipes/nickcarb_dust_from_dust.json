@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nnn",
+        "iii",
+        "cic"
+    ],
+    "key": {
+        "n": {
+            "item": "megalosmod:nickel_dust"
+        },
+        "c": {
+            "item": "megalosmod:chromium_dust"
+        },
+        "i": {
+            "item": "megalosmod:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:nickcarb_dust",
+	"count": 9 
+	}
+}

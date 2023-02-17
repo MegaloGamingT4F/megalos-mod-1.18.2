@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nac",
+        "axa",
+        "mao"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmod:aluminium_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        },
+        "m": {
+            "item": "megalosmod:magnesium_dust"
+        },
+        "o": {
+            "item": "megalosmod:cobalt_dust"
+        },
+        "x": {
+            "item": "megalosmod:niobium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:nambe_dust",
+	"count": 9 
+	}
+}

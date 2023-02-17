@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccx",
+        "cmc",
+        "xcc"
+    ],
+    "key": {
+        "c": {
+            "item": "megalosmod:cobalt_dust"
+        },
+        "x": {
+            "item": "megalosmod:chromium_dust"
+        },
+        "m": {
+            "item": "megalosmod:molybdenum_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:megallium_dust",
+	"count": 9 
+	}
+}

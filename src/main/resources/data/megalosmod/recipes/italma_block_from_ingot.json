@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:italma_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:italma_block"
+  }
+}

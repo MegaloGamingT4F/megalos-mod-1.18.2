@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:florentine_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:florentine_dust",
+    "count": 9
+  }
+}

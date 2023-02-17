@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "bbb",
+        "ttt"
+    ],
+    "key": {
+        "i": {
+            "item": "megalosmod:indium_dust"
+        },
+        "b": {
+            "item": "megalosmod:bismuth_dust"
+        },
+        "t": {
+            "item": "megalosmod:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:fieldsmetal_dust",
+	"count": 9 
+	}
+}

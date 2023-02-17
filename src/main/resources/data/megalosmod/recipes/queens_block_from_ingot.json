@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:queens_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:queens_block"
+  }
+}

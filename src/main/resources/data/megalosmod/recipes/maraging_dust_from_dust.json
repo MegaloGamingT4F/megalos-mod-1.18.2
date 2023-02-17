@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "nsn",
+        "mta"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmod:aluminium_dust"
+        },
+        "n": {
+            "item": "megalosmod:nickel_dust"
+        },
+        "m": {
+            "item": "megalosmod:molybdenum_dust"
+        },
+        "s": {
+            "item": "megalosmod:steel_dust"
+        },
+        "t": {
+            "item": "megalosmod:titanium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:maraging_dust",
+	"count": 9 
+	}
+}

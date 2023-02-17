@@ -1,17 +1,12 @@
 package net.megalogaming.megalosmod.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
-import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.megalogaming.megalosmod.MegalosMod;
-import net.megalogaming.megalosmod.block.ModBlocks;
-import net.megalogaming.megalosmod.block.custom.JalapenoCropBlock;
 import net.megalogaming.megalosmod.item.tools.ModAxeItem;
 import net.megalogaming.megalosmod.item.tools.ModHoeItem;
 import net.megalogaming.megalosmod.item.tools.ModPickaxeItem;
 import net.megalogaming.megalosmod.item.tools.ModShovelItem;
 import net.megalogaming.megalosmod.itemgroup.MegalosModItemGroup;
-import net.minecraft.block.Block;
-import net.minecraft.block.Blocks;
 import net.minecraft.entity.EquipmentSlot;
 import net.minecraft.item.*;
 import net.minecraft.util.Identifier;
@@ -376,7 +371,7 @@ public class ModItems {
     public static final Item ASHTADHATU_INGOT = registerItem("ashtadhatu_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
 
     //Molybdenum Ingot
-    public static final Item FERROMOLBD_INGOT = registerItem("ferromolybd_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
+    public static final Item FERROMOLYBD_INGOT = registerItem("ferromolybd_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
 
     //Nickel Ingot
     public static final Item ALUMEL_INGOT = registerItem("alumel_ingot", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
@@ -764,7 +759,7 @@ public class ModItems {
     public static final Item GALINSTAN_DUST = registerItem("galinstan_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
 
     //Gold Dust
-    public static final Item ANTANIUM_DUST = registerItem("antantium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
+    public static final Item ANTANIUM_DUST = registerItem("antanium_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COLORGOLD_DUST = registerItem("colorgold_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item CROWNGOLD_DUST = registerItem("crowngold_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item ELECTRUM_DUST = registerItem("electrum_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
@@ -897,6 +892,7 @@ public class ModItems {
 
     //Extras
     public static final Item COPPER_DUST = registerItem("copper_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
+    public static final Item COPPER_NUGGET = registerItem("copper_nugget", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item IRON_DUST = registerItem("iron_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item GOLD_DUST = registerItem("gold_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
     public static final Item COAL_DUST = registerItem("coal_dust", new Item(new FabricItemSettings().group(MegalosModItemGroup.ALLOY)));
@@ -919,7 +915,7 @@ public class ModItems {
 
     //Pickaxe
     public static final Item ALUMINIUM_PICKAXE = registerItem("aluminium_pickaxe", new ModPickaxeItem(ModToolMaterials.ALUMINIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
-    public static final Item SILVER_PICKAXE = registerItem("solver_pickaxe", new ModPickaxeItem(ModToolMaterials.SILVER,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
+    public static final Item SILVER_PICKAXE = registerItem("silver_pickaxe", new ModPickaxeItem(ModToolMaterials.SILVER,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item STEEL_PICKAXE = registerItem("steel_pickaxe", new ModPickaxeItem(ModToolMaterials.STEEL,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item DAMASCUS_PICKAXE = registerItem("damascus_pickaxe", new ModPickaxeItem(ModToolMaterials.DAMASCUS,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item TITANIUM_PICKAXE = registerItem("titanium_pickaxe", new ModPickaxeItem(ModToolMaterials.TITANIUM,1,2f,new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
@@ -964,18 +960,6 @@ public class ModItems {
     public static final Item TITANIUM_LEGGINGS = registerItem("titanium_leggings", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.LEGS, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
     public static final Item TITANIUM_BOOTS = registerItem("titanium_boots", new ArmorItem(ModArmorMaterials.TITANIUM, EquipmentSlot.FEET, new FabricItemSettings().group(MegalosModItemGroup.HOPLOLOGY)));
 
-    //Crops
-    public static final Item JALAPENO_SEEDS = registerItem("jalapeno_seeds", new Item(new FabricItemSettings().group(MegalosModItemGroup.GASTRONOMY)));
-    public static final Item JALAPENO_CROP = registerItem("jalapeno_crop", new Item(new FabricItemSettings().group(MegalosModItemGroup.GASTRONOMY)));
-
-    //Dendrology
-    public static final Item BLACKASH_SAPLING = registerItem("blackash_sapling", new Item(new FabricItemSettings().group(MegalosModItemGroup.DENDROLOGY)));
-
-    //Geology
-    public static final Item HEMATITE_GEMSTONE = registerItem("hematite_gemstone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
-    public static final Item APATITE_GEMSTONE = registerItem("apatite_gemstone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
-    public static final Item MARBLE_GEMSTONE = registerItem("apatite_gemstone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
-    public static final Item LEPIDOLITE_GEMSTONE = registerItem("lepidolite_gemstone", new Item(new FabricItemSettings().group(MegalosModItemGroup.GEOLOGY)));
 private static Item registerItem(String name, Item item){
     return Registry.register(Registry.ITEM, new Identifier(MegalosMod.MOD_ID, name), item);
 }

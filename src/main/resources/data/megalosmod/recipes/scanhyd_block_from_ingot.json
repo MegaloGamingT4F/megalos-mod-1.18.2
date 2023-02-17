@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:scanhyd_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:scanhyd_block"
+  }
+}

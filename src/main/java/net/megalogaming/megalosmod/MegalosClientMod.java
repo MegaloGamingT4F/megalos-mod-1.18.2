@@ -12,6 +12,6 @@ public class MegalosClientMod implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.METALLURGIC_FURNACE, RenderLayer.getCutout());
 
         //Plants
-        BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.JALAPENO_PLANT,RenderLayer.getCutout());
-    }
+
+}
 }

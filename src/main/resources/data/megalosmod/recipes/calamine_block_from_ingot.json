@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:calamine_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:calamine_block"
+  }
+}

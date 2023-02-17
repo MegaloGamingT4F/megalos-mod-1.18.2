@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:princemetal_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:princemetal_dust",
+    "count": 9
+  }
+}

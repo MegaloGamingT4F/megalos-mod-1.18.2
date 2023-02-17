@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:talonite_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:talonite_dust",
+    "count": 9
+  }
+}

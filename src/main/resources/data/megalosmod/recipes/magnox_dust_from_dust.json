@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "mam",
+        "ama",
+        "mam"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmod:aluminium_dust"
+        },
+        "m": {
+            "item": "megalosmod:magnesium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:magnox_dust",
+	"count": 9 
+	}
+}

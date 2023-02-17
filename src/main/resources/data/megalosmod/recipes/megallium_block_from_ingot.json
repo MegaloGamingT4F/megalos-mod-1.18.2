@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:megallium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:megallium_block"
+  }
+}

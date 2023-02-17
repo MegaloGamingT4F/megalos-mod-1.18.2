@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmod:muntzmetal_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmod:muntzmetal_block"
+  }
+}

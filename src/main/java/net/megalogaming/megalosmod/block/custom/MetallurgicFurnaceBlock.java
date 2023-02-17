@@ -32,23 +32,19 @@ public class MetallurgicFurnaceBlock extends BlockWithEntity implements BlockEnt
     }
 
     private static final VoxelShape SHAPE_N = Stream.of(
-            Block.createCuboidShape(0, 0, 0, 16, 16, 16),
-            Block.createCuboidShape(-1, 0, -1, 17, 1, 17)
+            Block.createCuboidShape(0, 0, 0, 16, 16, 16)
     ).reduce((v1,v2) -> VoxelShapes.combineAndSimplify(v1,v2, BooleanBiFunction.OR)).get();
 
     private static final VoxelShape SHAPE_E = Stream.of(
-            Block.createCuboidShape(0, 0, 0, 16, 16, 16),
-            Block.createCuboidShape(-1, 0, -1, 17, 1, 17)
+            Block.createCuboidShape(0, 0, 0, 16, 16, 16)
         ).reduce((v1,v2) ->VoxelShapes.combineAndSimplify(v1,v2, BooleanBiFunction.OR)).get();
 
     private static final VoxelShape SHAPE_S = Stream.of(
-            Block.createCuboidShape(0, 0, 0, 16, 16, 16),
-            Block.createCuboidShape(-1, 0, -1, 17, 1, 17)
+            Block.createCuboidShape(0, 0, 0, 16, 16, 16)
     ).reduce((v1,v2) ->VoxelShapes.combineAndSimplify(v1,v2, BooleanBiFunction.OR)).get();
 
     private static final VoxelShape SHAPE_W = Stream.of(
-            Block.createCuboidShape(0, 0, 0, 16, 16, 16),
-            Block.createCuboidShape(-1, 0, -1, 17, 1, 17)
+            Block.createCuboidShape(0, 0, 0, 16, 16, 16)
     ).reduce((v1,v2) ->VoxelShapes.combineAndSimplify(v1,v2, BooleanBiFunction.OR)).get();
 
     @Override

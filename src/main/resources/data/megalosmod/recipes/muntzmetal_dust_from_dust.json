@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "cic",
+        "zcz"
+    ],
+    "key": {
+        "z": {
+            "item": "megalosmod:zinc_dust"
+        },
+        "c": {
+            "item": "megalosmod:copper_dust"
+        },
+        "i": {
+            "item": "megalosmod:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmod:muntzmetal_dust",
+	"count": 9 
+	}
+}

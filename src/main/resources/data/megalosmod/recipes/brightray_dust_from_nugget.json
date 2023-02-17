@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmod:brightray_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmod:brightray_dust",
+    "count": 9
+  }
+}
