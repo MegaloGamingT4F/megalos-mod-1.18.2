@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "ctc",
+        "cpc"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "p": {
+            "item": "megalosmetallurgy:phosphorus_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:phosphor_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "yttrium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:netherrack_yttrium_ore"
+  },
+  "result": "megalosmetallurgy:yttrium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

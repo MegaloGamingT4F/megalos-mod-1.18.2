@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "niobium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:netherrack_niobium_ore"
+  },
+  "result": "megalosmetallurgy:niobium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "niobium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:niobium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:niobium_nugget",
+    "count": 9
+  }
+}

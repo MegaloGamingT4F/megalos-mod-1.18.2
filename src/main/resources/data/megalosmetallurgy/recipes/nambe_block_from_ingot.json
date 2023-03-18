@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:nambe_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:nambe_block"
+  }
+}

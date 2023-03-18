@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:inconelses_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:inconelses_block"
+  }
+}

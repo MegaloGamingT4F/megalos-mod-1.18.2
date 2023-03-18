@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "tma",
+        "zcv"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:titanium_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:molybdenum_dust"
+        },
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zirconium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        },
+        "v": {
+            "item": "megalosmetallurgy:vanadium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:betac_dust",
+	"count": 9 
+	}
+}

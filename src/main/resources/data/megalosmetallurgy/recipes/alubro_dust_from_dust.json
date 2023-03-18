@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "ccc",
+        "ain"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:alubro_dust",
+	"count": 9 
+	}
+}

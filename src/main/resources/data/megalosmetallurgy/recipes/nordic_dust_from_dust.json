@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "acz",
+        "ctc"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:nordic_dust",
+	"count": 9 
+	}
+}

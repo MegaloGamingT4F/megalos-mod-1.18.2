@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "lll",
+        "llt",
+        "ttt"
+    ],
+    "key": {
+        "l": {
+            "item": "megalosmetallurgy:lead_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:terne_dust",
+	"count": 9 
+	}
+}

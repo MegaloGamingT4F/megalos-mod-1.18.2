@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "technetium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:technetium_ore"
+  },
+  "result": "megalosmetallurgy:technetium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

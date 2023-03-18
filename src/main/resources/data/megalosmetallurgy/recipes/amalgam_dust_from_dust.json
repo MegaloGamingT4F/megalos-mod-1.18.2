@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "sst",
+        "czm"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        },
+	"t": {
+	    "item": "megalosmetallurgy:tin_dust"
+	},
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:mercury_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:amalgam_dust",
+	"count": 9 
+	}
+}

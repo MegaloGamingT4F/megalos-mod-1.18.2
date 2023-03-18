@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cbc",
+        "ccc",
+        "cnc"
+    ],
+    "key": {
+        "b": {
+            "item": "megalosmetallurgy:beryllium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:glucydur_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tellurium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:tellurium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:tellurium_dust",
+    "count": 9
+  }
+}

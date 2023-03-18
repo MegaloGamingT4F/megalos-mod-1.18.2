@@ -1,8 +1,0 @@
-{
-	"parent": "block/orientable",
-	"textures": {
-		"0": "megalosmod:machines/metallurgic_furnace_front_off",
-		"1": "megalosmod:machines/metallurgic_furnace_side",
-		"2": "megalosmod:machines/metallurgic_furnace_top",
-	}
-}

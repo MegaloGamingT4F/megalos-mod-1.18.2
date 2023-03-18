@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:rhodium_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:rhodium_ingot"
+  }
+}

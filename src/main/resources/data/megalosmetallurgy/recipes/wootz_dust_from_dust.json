@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "scs",
+        "sxs",
+        "sas"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmetallurgy:steel_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:coal_dust"
+        },
+        "a": {
+            "item": "megalosmetallurgy:arsenic_dust"
+        },
+        "x": {
+            "item": "megalosmetallurgy:silicon_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:wootz_dust",
+	"count": 9 
+	}
+}

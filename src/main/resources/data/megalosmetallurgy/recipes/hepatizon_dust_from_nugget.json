@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:hepatizon_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:hepatizon_dust",
+    "count": 9
+  }
+}

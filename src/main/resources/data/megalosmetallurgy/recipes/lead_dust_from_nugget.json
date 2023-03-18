@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lead_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:lead_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:lead_dust",
+    "count": 9
+  }
+}

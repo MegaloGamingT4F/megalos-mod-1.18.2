@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:tombac_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:tombac_dust",
+    "count": 9
+  }
+}

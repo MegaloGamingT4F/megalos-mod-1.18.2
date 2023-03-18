@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "rhenium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:rhenium_ore"
+  },
+  "result": "megalosmetallurgy:rhenium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ivi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "v": {
+            "item": "megalosmetallurgy:vanadium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:ferrovanadium_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "arsenic_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:deepslate_arsenic_ore"
+  },
+  "result": "megalosmetallurgy:arsenic_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

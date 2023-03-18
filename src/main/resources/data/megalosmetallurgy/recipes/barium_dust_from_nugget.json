@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "barium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:barium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:barium_dust",
+    "count": 9
+  }
+}

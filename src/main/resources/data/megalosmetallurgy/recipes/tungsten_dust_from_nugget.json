@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tungsten_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:tungsten_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:tungsten_dust",
+    "count": 9
+  }
+}

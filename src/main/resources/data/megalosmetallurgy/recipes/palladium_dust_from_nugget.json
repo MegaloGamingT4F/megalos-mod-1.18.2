@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "palladium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:palladium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:palladium_dust",
+    "count": 9
+  }
+}

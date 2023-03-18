@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "yttrium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_yttrium"
+  },
+  "result": "megalosmetallurgy:yttrium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

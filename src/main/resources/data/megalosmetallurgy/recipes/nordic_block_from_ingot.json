@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:nordic_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:nordic_block"
+  }
+}

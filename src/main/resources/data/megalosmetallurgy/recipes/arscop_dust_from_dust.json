@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "aaa",
+        "aac"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:arsenic_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:arscop_dust",
+	"count": 9 
+	}
+}

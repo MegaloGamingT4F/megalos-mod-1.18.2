@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "lll",
+        "lll",
+        "atn"
+    ],
+    "key": {
+        "l": {
+            "item": "megalosmetallurgy:lead_dust"
+        },
+        "a": {
+            "item": "megalosmetallurgy:antimony_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:arsenic_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:babbitt_dust",
+	"count": 9 
+	}
+}

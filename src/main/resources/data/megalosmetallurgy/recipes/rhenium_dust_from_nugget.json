@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rhenium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:rhenium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:rhenium_dust",
+    "count": 9
+  }
+}

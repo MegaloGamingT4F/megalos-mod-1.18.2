@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:antanium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:antanium_block"
+  }
+}

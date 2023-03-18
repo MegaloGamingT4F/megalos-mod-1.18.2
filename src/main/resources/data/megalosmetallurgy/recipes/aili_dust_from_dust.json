@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "aaa",
+        "aal"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:lithium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:aili_dust",
+	"count": 9 
+	}
+}

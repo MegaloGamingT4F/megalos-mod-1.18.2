@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "ttt",
+        "tac"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "a": {
+            "item": "megalosmetallurgy:antimony_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:britannium_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ctc",
+        "ccc",
+        "ctc"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:florentine_dust",
+	"count": 9 
+	}
+}

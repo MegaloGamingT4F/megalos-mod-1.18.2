@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ssc",
+        "sss",
+        "nss"
+    ],
+    "key": {
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:steel_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:stainless_dust",
+	"count": 9 
+	}
+}

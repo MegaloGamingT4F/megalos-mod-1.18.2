@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "tgt",
+        "tgt",
+        "tgt"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:titanium_dust"
+        },
+        "g": {
+            "item": "megalosmetallurgy:gold_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:titangold_dust",
+	"count": 9 
+	}
+}

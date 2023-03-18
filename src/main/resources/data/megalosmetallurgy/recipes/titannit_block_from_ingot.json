@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:titannit_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:titannit_block"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ini",
+        "nmn",
+        "nnn"
+    ],
+    "key": {
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:molybdenum_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:supermalloy_dust",
+	"count": 9 
+	}
+}

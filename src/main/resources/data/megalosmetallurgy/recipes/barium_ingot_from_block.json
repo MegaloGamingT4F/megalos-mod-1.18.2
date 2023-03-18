@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "barium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:barium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:barium_ingot",
+    "count": 9
+  }
+}

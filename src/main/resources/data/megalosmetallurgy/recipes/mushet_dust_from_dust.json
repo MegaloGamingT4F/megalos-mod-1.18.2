@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "tst",
+        "sms"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmetallurgy:steel_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tungsten_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:mushet_dust",
+	"count": 9 
+	}
+}

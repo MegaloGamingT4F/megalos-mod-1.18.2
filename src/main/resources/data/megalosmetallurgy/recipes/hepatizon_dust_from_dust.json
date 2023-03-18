@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "scs",
+        "ccc",
+        "gcg"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "g": {
+            "item": "megalosmetallurgy:gold_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:hepatizon_dust",
+	"count": 9 
+	}
+}

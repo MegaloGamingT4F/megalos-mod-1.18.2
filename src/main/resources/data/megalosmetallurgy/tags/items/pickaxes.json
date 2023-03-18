@@ -1,0 +1,10 @@
+{
+  "replace":false,
+  "values": [
+    "megalosmetallurgy:aluminium_pickaxe",
+    "megalosmetallurgy:silver_pickaxe",
+    "megalosmetallurgy:steel_pickaxe",
+    "megalosmetallurgy:damascus_pickaxe",
+    "megalosmetallurgy:titanium_pickaxe"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "germanium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:deepslate_germanium_ore"
+  },
+  "result": "megalosmetallurgy:germanium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

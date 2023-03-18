@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "aac",
+        "ctt"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:arsenic_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:arsbro_dust",
+	"count": 9 
+	}
+}

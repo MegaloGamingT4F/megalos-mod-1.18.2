@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:shibuichi_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:shibuichi_block"
+  }
+}

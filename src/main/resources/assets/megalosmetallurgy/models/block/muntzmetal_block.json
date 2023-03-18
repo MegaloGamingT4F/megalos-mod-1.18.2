@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "megalosmetallurgy:block/muntzmetal_block"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "barium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:barium_ore"
+  },
+  "result": "megalosmetallurgy:barium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

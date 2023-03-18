@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:wrought_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:wrought_block"
+  }
+}

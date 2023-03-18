@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ipi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "p": {
+            "item": "megalosmetallurgy:phosphorus_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:ferrophosphorus_dust",
+	"count": 9 
+	}
+}

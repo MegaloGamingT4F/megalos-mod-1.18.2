@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "molybdenum_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:molybdenum_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:molybdenum_dust",
+    "count": 9
+  }
+}

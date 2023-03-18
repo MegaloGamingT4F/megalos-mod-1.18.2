@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "iti",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "megalosmetallurgy:gallium_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:indium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:galinstan_dust",
+	"count": 9 
+	}
+}

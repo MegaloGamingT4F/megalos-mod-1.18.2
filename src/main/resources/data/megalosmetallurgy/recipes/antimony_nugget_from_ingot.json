@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "antimony_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:antimony_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:antimony_nugget",
+    "count": 9
+  }
+}

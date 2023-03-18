@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:ferronickel_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:ferronickel_dust",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bismuth_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:bismuth_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:bismuth_dust",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:zirconium_dust"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:zirconium_nugget"
+  }
+}

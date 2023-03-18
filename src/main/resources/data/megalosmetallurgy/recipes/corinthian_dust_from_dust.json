@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "gcs",
+        "gcs"
+    ],
+    "key": {
+        "g": {
+            "item": "megalosmetallurgy:gold_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:corinthian_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:rhodite_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:rhodite_block"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "aac",
+        "cnm"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:magnesium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:yalloy_dust",
+	"count": 9 
+	}
+}

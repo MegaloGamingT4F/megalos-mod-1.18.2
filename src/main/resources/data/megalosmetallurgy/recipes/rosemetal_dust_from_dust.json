@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "btb",
+        "lbl",
+        "btb"
+    ],
+    "key": {
+        "b": {
+            "item": "megalosmetallurgy:bismuth_dust"
+        },
+        "l": {
+            "item": "megalosmetallurgy:lead_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:rosemetal_dust",
+	"count": 9 
+	}
+}

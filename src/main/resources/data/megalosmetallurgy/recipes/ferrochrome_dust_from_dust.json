@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "ici",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        }
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:ferrochrome_dust",
+	"count": 9 
+	}
+}

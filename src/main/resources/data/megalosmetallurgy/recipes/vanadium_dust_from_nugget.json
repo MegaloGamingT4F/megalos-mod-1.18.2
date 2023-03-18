@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "vanadium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:vanadium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:vanadium_dust",
+    "count": 9
+  }
+}

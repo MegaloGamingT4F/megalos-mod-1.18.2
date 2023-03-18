@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:antanium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:antanium_dust",
+    "count": 9
+  }
+}

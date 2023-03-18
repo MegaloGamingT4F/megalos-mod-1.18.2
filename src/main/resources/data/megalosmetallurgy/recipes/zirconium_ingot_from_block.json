@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "zirconium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:zirconium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:zirconium_ingot",
+    "count": 9
+  }
+}

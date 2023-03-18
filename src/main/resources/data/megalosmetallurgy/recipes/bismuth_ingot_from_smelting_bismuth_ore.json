@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "bismuth_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:bismuth_ore"
+  },
+  "result": "megalosmetallurgy:bismuth_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

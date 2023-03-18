@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "svc",
+        "sts",
+        "cvs"
+    ],
+    "key": {
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tungsten_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:steel_dust"
+        },
+        "v": {
+            "item": "megalosmetallurgy:vanadium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:highspeed_dust",
+	"count": 9 
+	}
+}

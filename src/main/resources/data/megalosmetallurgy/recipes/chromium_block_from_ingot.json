@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:chromium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:chromium_block"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "silicon_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_silicon"
+  },
+  "result": "megalosmetallurgy:silicon_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

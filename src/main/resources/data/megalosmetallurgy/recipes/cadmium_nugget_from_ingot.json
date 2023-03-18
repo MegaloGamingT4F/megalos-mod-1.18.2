@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cadmium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:cadmium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:cadmium_nugget",
+    "count": 9
+  }
+}

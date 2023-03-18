@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "rhodium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_rhodium"
+  },
+  "result": "megalosmetallurgy:rhodium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

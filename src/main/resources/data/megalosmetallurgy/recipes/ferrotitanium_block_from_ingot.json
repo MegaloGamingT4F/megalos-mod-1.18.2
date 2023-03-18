@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:ferrotitanium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:ferrotitanium_block"
+  }
+}

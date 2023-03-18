@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gbg",
+        "isc",
+        "gpg"
+    ],
+    "key": {
+        "g": {
+            "item": "megalosmetallurgy:gold_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        },
+        "p": {
+            "item": "megalosmetallurgy:palladium_dust"
+        },
+        "b": {
+            "item": "megalosmetallurgy:bismuth_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:electrum_dust",
+	"count": 9 
+	}
+}

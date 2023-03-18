@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aluminium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:aluminium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:aluminium_dust",
+    "count": 9
+  }
+}

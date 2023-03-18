@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rubidium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:rubidium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:rubidium_dust",
+    "count": 9
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "sss",
+        "ssc",
+        "cgg"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "g": {
+            "item": "megalosmetallurgy:germanium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:argstersil_dust",
+	"count": 9 
+	}
+}

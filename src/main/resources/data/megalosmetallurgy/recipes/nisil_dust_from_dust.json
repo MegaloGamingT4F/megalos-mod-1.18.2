@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nns",
+        "nnn",
+        "nnn"
+    ],
+    "key": {
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silicon_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:nisil_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0":{"model": "megalosmetallurgy:block/jalapeno_plant0"},
+    "age=1":{"model": "megalosmetallurgy:block/jalapeno_plant1"},
+    "age=2":{"model": "megalosmetallurgy:block/jalapeno_plant2"},
+    "age=3":{"model": "megalosmetallurgy:block/jalapeno_plant3"},
+    "age=4":{"model": "megalosmetallurgy:block/jalapeno_plant4"},
+    "age=5":{"model": "megalosmetallurgy:block/jalapeno_plant5"},
+    "age=6":{"model": "megalosmetallurgy:block/jalapeno_plant6"},
+    "age=7":{"model": "megalosmetallurgy:block/jalapeno_plant7"}
+  }
+}

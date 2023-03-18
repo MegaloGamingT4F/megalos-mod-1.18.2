@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:cophyd_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:cophyd_dust",
+    "count": 9
+  }
+}

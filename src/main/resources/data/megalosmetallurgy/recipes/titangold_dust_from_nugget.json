@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:titangold_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:titangold_dust",
+    "count": 9
+  }
+}

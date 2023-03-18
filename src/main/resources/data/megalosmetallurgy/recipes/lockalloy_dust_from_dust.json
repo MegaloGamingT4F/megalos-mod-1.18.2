@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bba",
+        "bab",
+        "abb"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "b": {
+            "item": "megalosmetallurgy:beryllium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:lockalloy_dust",
+	"count": 9 
+	}
+}

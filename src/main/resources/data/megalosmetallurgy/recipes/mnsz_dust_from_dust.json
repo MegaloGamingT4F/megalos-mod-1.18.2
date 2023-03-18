@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "mnm",
+        "nnm",
+        "mmm"
+    ],
+    "key": {
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:mnsz_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "isi",
+        "cic"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmetallurgy:silicon_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:coal_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:pigiron_dust",
+	"count": 9 
+	}
+}

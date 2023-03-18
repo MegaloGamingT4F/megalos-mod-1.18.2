@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ppp",
+        "sss",
+        "ppp"
+    ],
+    "key": {
+        "p": {
+            "item": "megalosmetallurgy:potassium_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:sodium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:nak_dust",
+	"count": 9 
+	}
+}

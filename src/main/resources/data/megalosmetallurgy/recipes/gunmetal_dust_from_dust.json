@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ctc",
+        "czc",
+        "ctc"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:gunmetal_dust",
+	"count": 9 
+	}
+}

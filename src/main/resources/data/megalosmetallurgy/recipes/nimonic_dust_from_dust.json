@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nnn",
+        "ctc",
+        "nan"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:titanium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:nimonic_dust",
+	"count": 9 
+	}
+}

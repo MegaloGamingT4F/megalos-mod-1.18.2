@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "beryllium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_beryllium"
+  },
+  "result": "megalosmetallurgy:beryllium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

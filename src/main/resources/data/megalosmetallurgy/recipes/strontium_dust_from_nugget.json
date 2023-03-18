@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "strontium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:strontium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:strontium_dust",
+    "count": 9
+  }
+}

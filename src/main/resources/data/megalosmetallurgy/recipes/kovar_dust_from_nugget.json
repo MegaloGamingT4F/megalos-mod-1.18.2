@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:kovar_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:kovar_dust",
+    "count": 9
+  }
+}

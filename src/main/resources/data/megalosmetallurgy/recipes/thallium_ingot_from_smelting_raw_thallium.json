@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "thallium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_thallium"
+  },
+  "result": "megalosmetallurgy:thallium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

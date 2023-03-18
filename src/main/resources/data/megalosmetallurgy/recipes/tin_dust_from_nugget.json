@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tin_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:tin_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:tin_dust",
+    "count": 9
+  }
+}

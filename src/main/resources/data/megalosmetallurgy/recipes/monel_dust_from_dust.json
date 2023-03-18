@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nnn",
+        "cnc",
+        "mni"
+    ],
+    "key": {
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:monel_dust",
+	"count": 9 
+	}
+}

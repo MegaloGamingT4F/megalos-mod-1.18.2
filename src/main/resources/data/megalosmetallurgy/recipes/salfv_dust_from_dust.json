@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "via",
+        "ttt"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:titanium_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "v": {
+            "item": "megalosmetallurgy:vanadium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:salfv_dust",
+	"count": 9 
+	}
+}

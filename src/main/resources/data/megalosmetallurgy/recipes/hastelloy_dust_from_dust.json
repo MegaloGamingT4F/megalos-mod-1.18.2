@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nmn",
+        "inc",
+        "nmn"
+    ],
+    "key": {
+        "m": {
+            "item": "megalosmetallurgy:molybdenum_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:hastelloy_dust",
+	"count": 9 
+	}
+}

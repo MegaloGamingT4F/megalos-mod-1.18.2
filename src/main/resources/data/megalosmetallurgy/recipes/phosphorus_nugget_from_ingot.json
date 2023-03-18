@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "phosphorus_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:phosphorus_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:phosphorus_nugget",
+    "count": 9
+  }
+}

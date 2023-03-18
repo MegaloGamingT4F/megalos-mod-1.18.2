@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "ggg",
+        "lsp"
+    ],
+    "key": {
+        "g": {
+            "item": "megalosmetallurgy:gold_dust"
+        },
+        "l": {
+            "item": "megalosmetallurgy:platinum_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        },
+        "p": {
+            "item": "megalosmetallurgy:palladium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:crowngold_dust",
+	"count": 9 
+	}
+}

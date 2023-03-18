@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "strontium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:strontium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:strontium_nugget",
+    "count": 9
+  }
+}

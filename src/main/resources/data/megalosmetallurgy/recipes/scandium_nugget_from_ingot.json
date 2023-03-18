@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "scandium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:scandium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:scandium_nugget",
+    "count": 9
+  }
+}

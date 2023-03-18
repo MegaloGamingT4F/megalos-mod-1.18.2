@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "antimony_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:netherrack_antimony_ore"
+  },
+  "result": "megalosmetallurgy:antimony_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "alb",
+        "ttt"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:antimony_dust"
+        },
+        "b": {
+            "item": "megalosmetallurgy:bismuth_dust"
+        },
+        "l": {
+            "item": "megalosmetallurgy:lead_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:queens_dust",
+	"count": 9 
+	}
+}

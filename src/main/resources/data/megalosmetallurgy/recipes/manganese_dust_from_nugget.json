@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "manganese_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:manganese_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:manganese_dust",
+    "count": 9
+  }
+}

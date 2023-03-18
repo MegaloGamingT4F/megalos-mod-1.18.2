@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nzc",
+        "ncc",
+        "nzc"
+    ],
+    "key": {
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:tibetsil_dust",
+	"count": 9 
+	}
+}

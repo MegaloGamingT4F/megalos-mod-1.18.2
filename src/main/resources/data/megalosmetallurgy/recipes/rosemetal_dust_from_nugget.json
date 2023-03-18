@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:rosemetal_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:rosemetal_dust",
+    "count": 9
+  }
+}

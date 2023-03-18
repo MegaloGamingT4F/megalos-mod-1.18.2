@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:manganese_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:manganese_block"
+  }
+}

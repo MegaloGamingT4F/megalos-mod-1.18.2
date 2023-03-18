@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "cwc",
+        "ccc"
+    ],
+    "key": {
+        "w": {
+            "item": "minecraft:potion"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:cophyd_dust",
+	"count": 9 
+	}
+}

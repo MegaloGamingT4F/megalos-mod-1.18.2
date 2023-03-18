@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "aag",
+        "ggg"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "g": {
+            "item": "megalosmetallurgy:gallium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:alga_dust",
+	"count": 9 
+	}
+}

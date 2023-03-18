@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "osmium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:netherrack_osmium_ore"
+  },
+  "result": "megalosmetallurgy:osmium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "imi",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:ferromanga_dust",
+	"count": 9 
+	}
+}

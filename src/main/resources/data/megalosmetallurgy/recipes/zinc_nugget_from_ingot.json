@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "zinc_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:zinc_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:zinc_nugget",
+    "count": 9
+  }
+}

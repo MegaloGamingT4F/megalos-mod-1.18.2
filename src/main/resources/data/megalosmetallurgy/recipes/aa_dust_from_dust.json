@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "aaz",
+        "tms"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        },     
+        "t": {
+            "item": "megalosmetallurgy:titanium_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silicon_dust"
+        }      
+    },
+    "result": {
+	"item": "megalosmetallurgy:aa_dust",
+	"count": 9 
+	}
+}

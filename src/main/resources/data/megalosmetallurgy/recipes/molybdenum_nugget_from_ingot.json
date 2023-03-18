@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "molybdenum_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:molybdenum_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:molybdenum_nugget",
+    "count": 9
+  }
+}

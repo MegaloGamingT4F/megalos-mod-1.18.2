@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "palladium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:palladium_ore"
+  },
+  "result": "megalosmetallurgy:palladium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

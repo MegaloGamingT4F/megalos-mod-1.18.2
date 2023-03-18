@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:ruthenium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:ruthenium_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:permalloy_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:permalloy_dust",
+    "count": 9
+  }
+}

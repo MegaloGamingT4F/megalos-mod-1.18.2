@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "gallium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:gallium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:gallium_dust",
+    "count": 9
+  }
+}

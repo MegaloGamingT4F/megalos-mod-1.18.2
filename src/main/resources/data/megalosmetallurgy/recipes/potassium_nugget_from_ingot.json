@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "potassium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:potassium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:potassium_nugget",
+    "count": 9
+  }
+}

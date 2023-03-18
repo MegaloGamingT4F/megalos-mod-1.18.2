@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggs",
+        "clz",
+        "tam"
+    ],
+    "key": {
+        "g": {
+            "item": "megalosmetallurgy:gold_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "l": {
+            "item": "megalosmetallurgy:lead_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "a": {
+            "item": "megalosmetallurgy:antimony_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:mercury_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:ashtadhatu_dust",
+	"count": 9 
+	}
+}

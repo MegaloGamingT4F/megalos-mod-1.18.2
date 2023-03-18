@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:zirconium_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:zirconium_block"
+  }
+}

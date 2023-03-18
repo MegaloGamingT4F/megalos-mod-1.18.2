@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:sterling_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:sterling_dust",
+    "count": 9
+  }
+}

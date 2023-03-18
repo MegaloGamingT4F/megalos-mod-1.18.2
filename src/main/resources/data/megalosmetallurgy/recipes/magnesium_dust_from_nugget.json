@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "magnesium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:magnesium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:magnesium_dust",
+    "count": 9
+  }
+}

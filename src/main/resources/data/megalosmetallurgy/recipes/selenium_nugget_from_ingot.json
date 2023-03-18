@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "selenium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:selenium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:selenium_nugget",
+    "count": 9
+  }
+}

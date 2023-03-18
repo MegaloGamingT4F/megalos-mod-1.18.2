@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "calcium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:calcium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:calcium_ingot",
+    "count": 9
+  }
+}

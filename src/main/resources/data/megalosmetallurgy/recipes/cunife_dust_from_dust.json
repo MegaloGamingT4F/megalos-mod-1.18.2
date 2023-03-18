@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "ccc",
+        "nio"
+    ],
+    "key": {
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "o": {
+            "item": "megalosmetallurgy:cobalt_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:cunife_dust",
+	"count": 9 
+	}
+}

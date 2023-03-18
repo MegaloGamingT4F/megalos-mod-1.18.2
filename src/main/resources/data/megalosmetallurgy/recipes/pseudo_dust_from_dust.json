@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "rrs",
+        "rrr",
+        "srr"
+    ],
+    "key": {
+        "r": {
+            "item": "megalosmetallurgy:rhodium_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:pseudo_dust",
+	"count": 9 
+	}
+}

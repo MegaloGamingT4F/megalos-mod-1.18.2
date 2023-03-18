@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:corinthian_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:corinthian_block"
+  }
+}

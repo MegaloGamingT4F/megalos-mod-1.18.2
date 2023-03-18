@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "calcium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_calcium"
+  },
+  "result": "megalosmetallurgy:calcium_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

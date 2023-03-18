@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "mcm",
+        "iii"
+    ],
+    "key": {
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:coal_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:hadfield_dust",
+	"count": 9 
+	}
+}

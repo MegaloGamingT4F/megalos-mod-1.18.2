@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:terne_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:terne_block"
+  }
+}

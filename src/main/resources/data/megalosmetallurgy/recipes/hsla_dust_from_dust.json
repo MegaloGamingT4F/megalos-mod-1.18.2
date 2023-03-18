@@ -1,0 +1,38 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "vcn",
+        "sxs",
+        "hmz"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmetallurgy:steel_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "h": {
+            "item": "megalosmetallurgy:niobium_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:molybdenum_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "v": {
+            "item": "megalosmetallurgy:vanadium_dust"
+        },
+        "x": {
+            "item": "megalosmetallurgy:chromium_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zirconium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:hsla_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "silver_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:silver_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:silver_dust",
+    "count": 9
+  }
+}

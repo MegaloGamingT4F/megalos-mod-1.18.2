@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "magnesium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_magnesium"
+  },
+  "result": "megalosmetallurgy:magnesium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

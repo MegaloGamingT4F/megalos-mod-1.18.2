@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "tcx",
+        "nis"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:tungsten_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silicon_dust"
+        },
+        "x": {
+            "item": "megalosmetallurgy:coal_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:stellite_dust",
+	"count": 9 
+	}
+}

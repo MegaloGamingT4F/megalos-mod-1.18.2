@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "ttt",
+        "abc"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:antimony_dust"
+        },
+        "b": {
+            "item": "megalosmetallurgy:bismuth_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:pewter_dust",
+	"count": 9 
+	}
+}

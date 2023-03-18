@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "lta",
+        "atl"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:antimony_dust"
+        },
+        "l": {
+            "item": "megalosmetallurgy:lead_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:solder_dust",
+	"count": 9 
+	}
+}

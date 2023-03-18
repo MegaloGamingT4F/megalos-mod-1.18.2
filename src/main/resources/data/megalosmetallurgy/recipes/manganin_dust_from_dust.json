@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cnc",
+        "mcm",
+        "cmc"
+    ],
+    "key": {
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:manganin_dust",
+	"count": 9 
+	}
+}

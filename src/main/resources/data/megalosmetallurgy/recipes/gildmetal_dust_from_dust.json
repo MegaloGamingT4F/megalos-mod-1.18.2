@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "zcc",
+        "ccc"
+    ],
+    "key": {
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:gildmetal_dust",
+	"count": 9 
+	}
+}

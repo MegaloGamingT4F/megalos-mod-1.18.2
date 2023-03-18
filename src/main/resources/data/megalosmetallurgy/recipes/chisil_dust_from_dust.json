@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "czz",
+        "nos"
+    ],
+    "key": {
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "o": {
+            "item": "megalosmetallurgy:cobalt_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:chisil_dust",
+	"count": 9 
+	}
+}

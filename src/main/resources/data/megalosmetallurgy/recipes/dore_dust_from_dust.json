@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gsp",
+        "sss",
+        "psg"
+    ],
+    "key": {
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        },
+        "p": {
+            "item": "megalosmetallurgy:platinum_dust"
+        },
+        "g": {
+            "item": "megalosmetallurgy:gold_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:dore_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "nxz",
+        "ttt"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:titanium_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:niobium_dust"
+        },
+        "x": {
+            "item": "megalosmetallurgy:tantalum_dust"
+        },
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:gummetal_dust",
+	"count": 9 
+	}
+}

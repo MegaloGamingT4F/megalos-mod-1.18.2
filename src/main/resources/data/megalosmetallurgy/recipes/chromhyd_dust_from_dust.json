@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "twt",
+        "ccc"
+    ],
+    "key": {
+        "t": {
+            "item": "megalosmetallurgy:titanium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        },
+        "w": {
+            "item": "minecraft:potion"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:chromhyd_dust",
+	"count": 9 
+	}
+}

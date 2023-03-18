@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ttt",
+        "ata",
+        "clc"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:antimony_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        },
+        "l": {
+            "item": "megalosmetallurgy:lead_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:whimetal_dust",
+	"count": 9 
+	}
+}

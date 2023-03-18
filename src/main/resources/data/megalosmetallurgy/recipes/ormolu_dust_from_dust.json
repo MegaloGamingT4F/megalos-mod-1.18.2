@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "czc",
+        "ccc",
+        "tzt"
+    ],
+    "key": {
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:ormolu_dust",
+	"count": 9 
+	}
+}

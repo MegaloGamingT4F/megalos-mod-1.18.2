@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:gunmetal_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:gunmetal_block"
+  }
+}

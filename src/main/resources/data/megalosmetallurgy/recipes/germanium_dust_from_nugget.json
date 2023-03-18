@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "germanium_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:germanium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:germanium_dust",
+    "count": 9
+  }
+}

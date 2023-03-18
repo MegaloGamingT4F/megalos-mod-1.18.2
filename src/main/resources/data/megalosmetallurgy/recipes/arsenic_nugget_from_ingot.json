@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "arsenic_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:arsenic_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:arsenic_nugget",
+    "count": 9
+  }
+}

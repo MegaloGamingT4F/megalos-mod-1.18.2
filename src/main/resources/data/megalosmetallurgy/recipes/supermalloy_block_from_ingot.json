@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:supermalloy_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:supermalloy_block"
+  }
+}

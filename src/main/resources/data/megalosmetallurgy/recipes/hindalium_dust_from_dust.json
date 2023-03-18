@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "aaa",
+        "ama",
+        "cxs"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silicon_dust"
+        },
+        "x": {
+            "item": "megalosmetallurgy:magnesium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:hindalium_dust",
+	"count": 9 
+	}
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:galfenol_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:galfenol_block"
+  }
+}

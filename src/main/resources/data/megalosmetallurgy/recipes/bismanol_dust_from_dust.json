@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bbb",
+        "bbm",
+        "mmm"
+    ],
+    "key": {
+        "b": {
+            "item": "megalosmetallurgy:bismuth_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:bismanol_dust",
+	"count": 9 
+	}
+}

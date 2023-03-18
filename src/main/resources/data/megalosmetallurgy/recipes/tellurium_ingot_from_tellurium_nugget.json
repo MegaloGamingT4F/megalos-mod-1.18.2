@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:tellurium_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:tellurium_ingot"
+  }
+}

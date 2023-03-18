@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "mcx",
+        "aaa",
+        "ias"
+    ],
+    "key": {
+        "a": {
+            "item": "megalosmetallurgy:aluminium_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "x": {
+            "item": "megalosmetallurgy:magnesium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:silumin_dust",
+	"count": 9 
+	}
+}

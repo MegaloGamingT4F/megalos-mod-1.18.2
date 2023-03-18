@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "mim",
+        "imi",
+        "xic"
+    ],
+    "key": {
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:cobalt_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "x": {
+            "item": "megalosmetallurgy:chromium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:mnfz_dust",
+	"count": 9 
+	}
+}

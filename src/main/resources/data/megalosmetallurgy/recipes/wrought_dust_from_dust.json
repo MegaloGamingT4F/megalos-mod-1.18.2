@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iic"
+    ],
+    "key": {
+        "c": {
+            "item": "megalosmetallurgy:coal_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:wrought_dust",
+	"count": 9 
+	}
+}

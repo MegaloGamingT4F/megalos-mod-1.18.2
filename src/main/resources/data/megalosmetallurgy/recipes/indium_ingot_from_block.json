@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "indium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:indium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:indium_ingot",
+    "count": 9
+  }
+}

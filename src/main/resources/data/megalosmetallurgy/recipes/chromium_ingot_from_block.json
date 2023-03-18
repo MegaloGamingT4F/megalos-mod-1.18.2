@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "chromium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:chromium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:chromium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "czc",
+        "snt"
+    ],
+    "key": {
+        "z": {
+            "item": "megalosmetallurgy:zinc_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silver_dust"
+        },
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:tin_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:cymbal_dust",
+	"count": 9 
+	}
+}

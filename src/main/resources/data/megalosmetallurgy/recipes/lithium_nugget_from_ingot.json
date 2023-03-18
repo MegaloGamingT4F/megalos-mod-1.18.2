@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "lithium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:lithium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:lithium_nugget",
+    "count": 9
+  }
+}

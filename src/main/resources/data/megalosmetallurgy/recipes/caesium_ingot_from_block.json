@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "caesium_ingot",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:caesium_block"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:caesium_ingot",
+    "count": 9
+  }
+}

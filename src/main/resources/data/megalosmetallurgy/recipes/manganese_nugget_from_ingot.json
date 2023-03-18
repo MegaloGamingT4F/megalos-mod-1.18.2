@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "manganese_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:manganese_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:manganese_nugget",
+    "count": 9
+  }
+}

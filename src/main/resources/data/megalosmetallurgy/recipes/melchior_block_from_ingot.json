@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:melchior_ingot"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:melchior_block"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccc",
+        "ccb",
+        "bbi"
+    ],
+    "key": {
+        "c": {
+            "item": "megalosmetallurgy:copper_dust"
+        },
+        "b": {
+            "item": "megalosmetallurgy:beryllium_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:berylcopper_dust",
+	"count": 9 
+	}
+}

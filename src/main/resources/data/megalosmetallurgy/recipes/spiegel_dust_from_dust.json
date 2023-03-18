@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "mcs",
+        "iii"
+    ],
+    "key": {
+        "m": {
+            "item": "megalosmetallurgy:manganese_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:coal_dust"
+        },
+        "i": {
+            "item": "megalosmetallurgy:iron_dust"
+        },
+        "s": {
+            "item": "megalosmetallurgy:silicon_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:spiegel_dust",
+	"count": 9 
+	}
+}

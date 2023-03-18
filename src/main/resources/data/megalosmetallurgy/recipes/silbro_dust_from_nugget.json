@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:silbro_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:silbro_dust",
+    "count": 9
+  }
+}

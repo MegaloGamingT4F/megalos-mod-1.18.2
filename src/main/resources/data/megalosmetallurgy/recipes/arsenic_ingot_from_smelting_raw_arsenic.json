@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "arsenic_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:raw_arsenic"
+  },
+  "result": "megalosmetallurgy:arsenic_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

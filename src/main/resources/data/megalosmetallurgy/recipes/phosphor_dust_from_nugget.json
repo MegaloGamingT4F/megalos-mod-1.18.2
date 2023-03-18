@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:phosphor_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:phosphor_dust",
+    "count": 9
+  }
+}

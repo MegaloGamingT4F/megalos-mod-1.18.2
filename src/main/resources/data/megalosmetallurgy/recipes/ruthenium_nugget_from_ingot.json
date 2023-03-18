@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ruthenium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:ruthenium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:ruthenium_nugget",
+    "count": 9
+  }
+}

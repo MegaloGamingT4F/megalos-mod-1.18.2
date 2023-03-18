@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "phosphorus_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:phosphorus_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:phosphorus_dust",
+    "count": 9
+  }
+}

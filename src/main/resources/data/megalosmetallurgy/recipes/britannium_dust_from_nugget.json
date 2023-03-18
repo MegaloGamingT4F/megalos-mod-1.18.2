@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:britannium_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:britannium_dust",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aili_dust",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:chisil_nugget"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:chisil_dust",
+    "count": 9
+  }
+}

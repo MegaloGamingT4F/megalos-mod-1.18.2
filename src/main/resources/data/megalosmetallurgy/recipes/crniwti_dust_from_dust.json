@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ccn",
+        "nnn",
+        "nwt"
+    ],
+    "key": {
+        "n": {
+            "item": "megalosmetallurgy:nickel_dust"
+        },
+        "c": {
+            "item": "megalosmetallurgy:chromium_dust"
+        },
+        "w": {
+            "item": "megalosmetallurgy:tungsten_dust"
+        },
+        "t": {
+            "item": "megalosmetallurgy:titanium_dust"
+        }
+    },
+    "result": {
+	"item": "megalosmetallurgy:crniwti_dust",
+	"count": 9 
+	}
+}

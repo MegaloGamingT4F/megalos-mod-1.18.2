@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "yttrium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:yttrium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:yttrium_nugget",
+    "count": 9
+  }
+}

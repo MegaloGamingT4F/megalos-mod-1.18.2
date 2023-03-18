@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tantalum_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:tantalum_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:tantalum_nugget",
+    "count": 9
+  }
+}

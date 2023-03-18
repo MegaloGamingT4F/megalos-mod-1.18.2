@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "iridium_nugget",
+  "ingredients": [
+    {
+      "item": "megalosmetallurgy:iridium_ingot"
+    }
+  ],
+  "result": {
+    "item": "megalosmetallurgy:iridium_nugget",
+    "count": 9
+  }
+}

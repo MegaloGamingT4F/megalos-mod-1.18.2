@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "group": "rhenium_ingot",
+  "ingredient": {
+    "item": "megalosmetallurgy:deepslate_rhenium_ore"
+  },
+  "result": "megalosmetallurgy:rhenium_ingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

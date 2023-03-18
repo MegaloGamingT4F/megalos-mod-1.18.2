@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "megalosmetallurgy:aluminium_nugget"
+    }
+  },
+  "result": {
+    "item": "megalosmetallurgy:aluminium_leggings"
+  }
+}
